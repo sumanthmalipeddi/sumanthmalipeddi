@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m a Machine Learning Engineer and Data Science
 
 ## About Me
 
-- 🎓 Pursuing MSc in Data Science & Artificial Intelligence at IISER Tirupati  
+- 🎓 Pursued MS in Data Science & Artificial Intelligence at IISER Tirupati  
 - 🚀 5+ years in government data analytics, vehicular data management, and ML pipelines  
 - 💡 Passionate about applying AI, NLP, and ML to solve real-world problems  
 - 🎥 Creator of educational content: algorithm study timelapses, ML projects, tutorial videos  
