@@ -1,6 +1,6 @@
 # Hello, I am Sumanth Malipeddi 👋
 
-Welcome to my GitHub profile! I’m a Machine Learning Engineer and Data Science student at IISER Tirupati, India.
+Welcome to my GitHub profile! I’m a Machine Learning Engineer and Data Science student from IISER Tirupati, India.
 
 ---
 
