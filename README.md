@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I’m a Machine Learning Engineer and Data Science
 
 ## Key Projects
 
-- [Skills & Resume Intelligence Analyzer](your_project_link)  
+- [Skills & Resume Intelligence Analyzer](https://github.com/sumanthmalipeddi/llm_carrerasst/tree/main)  
   Interactive web app for resume analysis and salary prediction using ML models  
 
 - [Financial Sentiment Analysis Transformer](your_project_link)  
