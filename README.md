@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sumanth%20Malipeddi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineer%20|%20Building%20Production%20Pipelines%20That%20Power%20AI&descSize=16&descAlignY=51" width="100%"/>
 
 <!-- Animated Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B9CFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Associate+Data+Science+Engineer+%40+GetMySaas;Apache+Airflow+•+Kafka+•+dbt+•+Iceberg+•+pgvector;MS+Data+Science+%40+IISER+Tirupati+(9.5+CGPA)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B9CFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Associate+Data+Science+Engineer+%40+GetMySaas;Python+•+SQL+•+Kafka+•+Databricks+•+dbt+•+Snowflake;MS+Data+Science+%40+IISER+Tirupati+(9.5+CGPA)" alt="Typing SVG" /></a>
 
 <!-- Social Badges -->
 <p align="center">
@@ -49,7 +49,9 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<table>
+<tr>
+<td width="60%">
 
 ```yaml
 name: Sumanth Malipeddi
@@ -60,48 +62,54 @@ education: 🎓 MS Data Science & AI | IISER Tirupati
 gpa: 9.50/10
 experience: 4+ years in data analytics & engineering
 
-specialization:
+core_expertise:
+  - AI Engineering & RAG Systems
   - Production Data Pipelines
   - Real-time Streaming Architecture
   - Lakehouse Design (Iceberg, dbt, Trino)
-  - RAG Systems & Semantic Search
-  - MLOps & Model Deployment
+  - Semantic Search & Vector Databases
+
+primary_stack:
+  languages: [Python, SQL]
+  orchestration: [Apache Airflow]
+  streaming: [Apache Kafka]
+  cloud_platforms: [AWS, Databricks, Snowflake]
+  transformation: [dbt, PySpark]
 
 currently_building:
   - 15+ Airflow DAGs for data ingestion
   - Kafka streaming pipelines
   - pgvector + OpenSearch hybrid search
-  - Document intelligence workflows
+  - RAG systems for LLM applications
 
-daily_stack:
-  orchestration: [Apache Airflow, Dagster]
-  streaming: [Apache Kafka, Redis]
-  transformation: [dbt, Pandas, PySpark]
-  storage: [Apache Iceberg, PostgreSQL, S3]
-  ai_tools: [Claude, GPT-5, Perplexity]
-
-learning_streak: 120+ days DSA consistency 🔥
+learning_streaks:
+  dsa: "120+ days 🔥"
+  duolingo: "1100+ days 🌟"
+  brilliant: "593+ days 💡"
 
 philosophy: |
   "Production pipelines live in edge cases, not happy paths.
    Real learning happens when things break."
 ```
 
-<div align="left">
+</td>
+<td width="40%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350" alt="Coding Animation"/>
 
 ### 🎯 What I Do
 
-I architect **end-to-end data infrastructure** that powers AI systems—from raw data ingestion through web scraping and APIs, to semantic search infrastructure serving LLMs. My work bridges the gap between raw data chaos and production-ready AI applications.
+Building **end-to-end AI systems** from raw data to production-ready RAG applications.
 
 ### 🔥 Current Focus
 
-- Building **production ETL pipelines** processing millions of records daily
-- Implementing **modern data lakehouse** architectures (Bronze → Silver → Gold)
-- Creating **RAG systems** combining lexical and semantic search
-- Developing **data quality frameworks** with automated lineage tracking
-- Maintaining **99.7% data pipeline reliability**
+- **AI Engineering**: RAG pipelines, semantic search
+- **Data Engineering**: Lakehouse architecture, streaming
+- **MLOps**: Model deployment, monitoring
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -114,6 +122,14 @@ I architect **end-to-end data infrastructure** that powers AI systems—from raw
 <summary><b>📊 Key Responsibilities & Impact</b></summary>
 
 <br/>
+
+#### 🤖 AI Engineering & RAG Systems
+- Building **hybrid search infrastructure**:
+  - OpenSearch for full-text lexical search (BM25)
+  - PostgreSQL + pgvector for semantic embeddings
+  - Hybrid ranking algorithm combining both approaches
+- Developing **RAG pipelines** connecting structured data to LLMs
+- **Impact:** Powers AI chatbot with 87% answer accuracy
 
 #### 🔄 Data Pipeline Architecture
 - Architecting **15+ production Airflow DAGs** orchestrating data from:
@@ -146,25 +162,12 @@ I architect **end-to-end data infrastructure** that powers AI systems—from raw
   - Real-time data enrichment and validation
 - **Impact:** Sub-second data freshness for critical workflows
 
-#### 🔍 Hybrid Search System for RAG
-- Built **semantic + lexical search infrastructure**:
-  - OpenSearch for full-text search (BM25)
-  - PostgreSQL + pgvector for semantic embeddings
-  - Hybrid ranking algorithm combining both approaches
-- **Impact:** Powers AI chatbot with 87% answer accuracy
-
 #### ✅ Data Quality & Governance
 - Established **data reliability framework**:
   - Great Expectations for automated validation
   - OpenLineage for end-to-end lineage tracking
   - OpenMetadata for data cataloging and discovery
 - **Impact:** Reduced data incidents by 85%
-
-#### 🤖 AI-Assisted Development
-- Daily use of Claude, GPT-5, and Perplexity for:
-  - Code generation and debugging
-  - Architecture design and optimization
-  - Documentation and knowledge synthesis
 
 </details>
 
@@ -184,32 +187,53 @@ I architect **end-to-end data infrastructure** that powers AI systems—from raw
 
 ### 🎯 Core Competencies
 
+<div align="center">
+
+### Primary Technologies
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
+<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+
+</div>
+
+<br/>
+
 <table>
 <tr>
-  <td align="center" width="33%">
+  <td align="center" width="25%">
+    <h4>🤖 AI Engineering</h4>
+    <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white"/>
+    <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/RAG_Systems-FF6B6B?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  </td>
+  <td align="center" width="25%">
     <h4>🔄 Data Engineering</h4>
-    <img src="https://skillicons.dev/icons?i=python,postgresql,kafka,redis,docker" />
-    <br/>
-    <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white"/>
-    <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white"/>
     <img src="https://img.shields.io/badge/Iceberg-1F8FD6?style=flat-square"/>
+    <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/>
     <img src="https://img.shields.io/badge/Trino-DD00A1?style=flat-square"/>
   </td>
-  <td align="center" width="33%">
-    <h4>🤖 ML & AI</h4>
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-    <br/>
-    <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-    <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square"/>
-    <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square"/>
+  <td align="center" width="25%">
+    <h4>🤖 Machine Learning</h4>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
     <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square"/>
   </td>
-  <td align="center" width="33%">
-    <h4>☁️ Cloud & DevOps</h4>
-    <img src="https://skillicons.dev/icons?i=aws,git,linux,bash,github" />
-    <br/>
-    <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
+  <td align="center" width="25%">
+    <h4>☁️ Cloud & Databases</h4>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   </td>
 </tr>
@@ -219,81 +243,85 @@ I architect **end-to-end data infrastructure** that powers AI systems—from raw
 
 ```mermaid
 %%{init: {'theme':'dark'}}%%
-graph LR
-    A[Data Engineering] --> B[Expert: Airflow, dbt, Kafka]
-    A --> C[Advanced: Iceberg, Trino, Airbyte]
-    D[Machine Learning] --> E[Expert: scikit-learn, TensorFlow]
-    D --> F[Advanced: Transformers, NLP, MLOps]
-    G[Cloud & DevOps] --> H[Advanced: AWS, Docker, CI/CD]
-    I[Databases] --> J[Expert: PostgreSQL, Redis]
-    I --> K[Advanced: pgvector, OpenSearch]
-```
+graph TB
+    A[AI Engineering - Core] --> B[RAG Systems]
+    A --> C[Semantic Search]
+    A --> D[Vector Databases]
 
-### 🔧 Full Technology Arsenal
+    E[Data Engineering] --> F[Airflow]
+    E --> G[Kafka]
+    E --> H[dbt & Iceberg]
+
+    I[Machine Learning] --> J[NLP & Transformers]
+    I --> K[MLOps]
+
+    L[Cloud & Databases] --> M[AWS & Databricks]
+    L --> N[PostgreSQL & Snowflake]
+
+    style A fill:#FF6B6B
+    style E fill:#4ECDC4
+    style I fill:#FFD93D
+    style L fill:#95E1D3
+```
 
 <details>
 <summary><b>Click to expand complete tech stack</b></summary>
 
+**AI Engineering & LLMs**
+- LangChain, LlamaIndex for RAG pipelines
+- pgvector for semantic embeddings
+- OpenSearch for hybrid search
+- Claude API, OpenAI API integration
+- Prompt engineering and optimization
+
 **Data Orchestration & Workflow**
-- Apache Airflow 3.x, Dagster, Prefect
-- DAG design, task dependencies, dynamic workflows
+- Apache Airflow 3.x (Expert)
+- DAG design, custom operators
+- Task dependencies, trigger rules
 
 **Streaming & Messaging**
-- Apache Kafka, Redis Streams
-- Event-driven architectures, pub-sub patterns
+- Apache Kafka (Advanced)
+- Redis Streams
+- Event-driven architectures
 
 **Data Transformation**
-- dbt (Data Build Tool), Pandas, PySpark
-- SQL, Python data manipulation
+- dbt (Data Build Tool)
+- PySpark for large-scale processing
+- Pandas, Polars
+
+**Cloud Platforms**
+- AWS (S3, EC2, Lambda, SageMaker)
+- Databricks (Spark, Delta Lake)
+- Snowflake (Data Warehousing)
 
 **Storage & Lakehouse**
-- Apache Iceberg, Delta Lake
-- PostgreSQL, MySQL, MongoDB
-- AWS S3, MinIO object storage
-
-**Search & Retrieval**
-- OpenSearch (Elasticsearch fork)
-- PostgreSQL + pgvector for embeddings
-- Hybrid search algorithms
+- Apache Iceberg
+- Delta Lake
+- PostgreSQL, MongoDB
 
 **Data Quality & Observability**
-- Great Expectations, OpenLineage
-- OpenMetadata, Apache Atlas
+- Great Expectations
+- OpenLineage, OpenMetadata
 - Data profiling and validation
 
 **Web Scraping & APIs**
-- Playwright, Scrapy, BeautifulSoup
+- Playwright, Scrapy
 - REST APIs, GraphQL
-- API rate limiting and authentication
+- API authentication
 
 **Document Processing**
-- Apache Tika, Tesseract OCR
+- Apache Tika
+- Tesseract OCR
 - Google Document AI
-- PDF parsing, image text extraction
 
-**Machine Learning & AI**
-- TensorFlow, PyTorch, scikit-learn
+**Machine Learning**
+- TensorFlow, PyTorch
+- scikit-learn
 - Hugging Face Transformers
-- LangChain, LlamaIndex
-- Claude API, OpenAI API
 
-**MLOps & Deployment**
-- MLflow, DVC (Data Version Control)
+**MLOps**
+- MLflow, DVC
 - Docker, Kubernetes basics
-- AWS SageMaker, EC2, Lambda
-
-**Programming Languages**
-- Python (Expert), SQL (Expert)
-- Bash/Shell scripting
-- YAML for configurations
-
-**Version Control & CI/CD**
-- Git, GitHub Actions
-- Pre-commit hooks, code reviews
-
-**Visualization & BI**
-- Streamlit, Plotly
-- Tableau basics, SQL dashboards
 
 </details>
 
@@ -303,361 +331,181 @@ graph LR
 
 <div align="center">
 
-### 🎯 Production Data Engineering Projects
+### 🎯 Production-Grade Data Engineering & AI Projects
 
 </div>
 
 ---
 
-### 1️⃣ **Airbnb Data Pipeline: PostgreSQL → S3** 
-[![Repo](https://img.shields.io/badge/Repo-airflow--postgres--to--s3--pipeline-blue?style=for-the-badge&logo=github)](https://github.com/sumanthmalipeddi/airflow-postgres-to-s3-pipeline)
-[![Stars](https://img.shields.io/github/stars/sumanthmalipeddi/airflow-postgres-to-s3-pipeline?style=for-the-badge)](https://github.com/sumanthmalipeddi/airflow-postgres-to-s3-pipeline/stargazers)
+### 1️⃣ **Airbnb Data Pipeline: PostgreSQL → AWS S3** 
 
 <div align="center">
 
-#### 🏗️ Architecture Overview
-
-<img src="https://github.com/sumanthmalipeddi/airflow-postgres-to-s3-pipeline/blob/main/screenshots/full_architecture.png?raw=true" width="700" alt="Pipeline Architecture"/>
-
-#### ✅ Successful DAG Execution
-
-<img src="https://github.com/sumanthmalipeddi/airflow-postgres-to-s3-pipeline/blob/main/screenshots/Complete%20Success.png?raw=true" width="700" alt="Successful Execution"/>
+[![GitHub Repo](https://img.shields.io/badge/GitHub-airflow--postgres--to--s3--pipeline-181717?style=for-the-badge&logo=github)](https://github.com/sumanthmalipeddi/airflow-postgres-to-s3-pipeline)
+![Stars](https://img.shields.io/github/stars/sumanthmalipeddi/airflow-postgres-to-s3-pipeline?style=for-the-badge&color=yellow)
+![Forks](https://img.shields.io/github/forks/sumanthmalipeddi/airflow-postgres-to-s3-pipeline?style=for-the-badge&color=blue)
 
 </div>
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🏗️ Architecture Overview
+
+<img src="https://github.com/sumanthmalipeddi/airflow-postgres-to-s3-pipeline/blob/main/screenshots/full_architecture.png?raw=true" width="100%" alt="Pipeline Architecture"/>
+
+</td>
+<td width="50%">
+
+#### ✅ DAG Execution
+
+<img src="https://github.com/sumanthmalipeddi/airflow-postgres-to-s3-pipeline/blob/main/screenshots/Complete%20Success.png?raw=true" width="100%" alt="Successful Execution"/>
+
+</td>
+</tr>
+</table>
 
 #### 📝 Project Overview
 
 Production-grade **Apache Airflow 3.x pipeline** demonstrating real-world ETL best practices for Airbnb listing data.
 
-#### 🎯 Problem Statement
+#### 🎯 Problem → Solution → Impact
 
+**Problem:**
 - Manual data exports from PostgreSQL to S3 taking hours
-- Inconsistent CSV formatting causing downstream failures
-- No idempotency - reruns creating duplicate records
-- Lack of observability in data movement
+- CSV formatting issues causing downstream failures
+- Duplicate records on pipeline reruns
+- No observability in data movement
 
-#### 💡 Solution Architecture
+**Solution:**
+- Built custom `PostgresToS3Operator` using BaseOperator
+- Implemented idempotent batch loading with proper NULL handling
+- Added Airflow templating (`{{ ds }}`) for traceability
+- Comprehensive error handling and retry logic
 
-```yaml
-Pipeline Flow:
-  1. Data Ingestion:
-     - Fetch Airbnb listings from PostgreSQL
-     - Handle NULL semantics (\N vs empty strings)
-     - Explicit column mapping for type safety
+**Impact:**
+- ✅ **50,000+ records** processed daily
+- ✅ **99.8% success rate** with automatic recovery
+- ✅ **45-second runtime** end-to-end
+- ✅ **Zero duplicate records** with idempotent design
 
-  2. Custom Operator:
-     - Built PostgresToS3Operator using BaseOperator
-     - Integrated PostgresHook & S3Hook
-     - Airflow templating with {{ ds }} for traceability
+#### 🛠️ Key Technical Features
 
-  3. Data Export:
-     - CSV serialization with proper encoding
-     - S3 upload with partitioning by date
-     - Idempotent design for safe reruns
-
-  4. Error Handling:
-     - Retry logic with exponential backoff
-     - Data validation before export
-     - Comprehensive logging
-```
-
-#### 🔥 Key Features
-
-✅ **Idempotent Batch Ingestion** - Safe DAG reruns without duplicates  
-✅ **Custom Airflow Operator** - Reusable across multiple projects  
-✅ **Production Error Handling** - Handles CSV NULL semantics, type mismatches  
-✅ **Airflow 3.x Compatible** - Uses latest Airflow features  
-✅ **Docker Compose Setup** - One-command local development
-
-#### 🛠️ Technical Deep Dive
-
-<details>
-<summary><b>Real-World Issues Solved</b></summary>
-
-**Issue 1: CSV NULL Handling**
 ```python
-# ❌ Wrong: Empty strings treated as NULL
-COPY table FROM 'file.csv' WITH (FORMAT CSV)
+# Custom Operator Highlight
+class PostgresToS3Operator(BaseOperator):
+    template_fields = ['execution_date', 's3_key']
 
-# ✅ Correct: Explicit NULL representation
-COPY table FROM 'file.csv' WITH (FORMAT CSV, NULL '\N')
+    def execute(self, context):
+        # Fetch from Postgres with proper NULL handling
+        postgres_hook = PostgresHook(postgres_conn_id=self.postgres_conn)
+        records = postgres_hook.get_records(self.sql)
+
+        # CSV serialization with explicit NULL representation
+        csv_buffer = self._to_csv(records, null_marker='\N')
+
+        # Upload to S3 with date partitioning
+        s3_hook = S3Hook(aws_conn_id=self.aws_conn)
+        s3_hook.load_string(
+            csv_buffer, 
+            key=f"airbnb/listings/{context['ds']}/data.csv"
+        )
 ```
-
-**Issue 2: Type Mismatches**
-```python
-# Problem: "invalid input syntax for type numeric"
-# Solution: Explicit column mapping with CAST
-sql = '''
-    COPY listings (id, price::numeric, name::text)
-    FROM STDIN WITH CSV HEADER NULL '\N'
-'''
-```
-
-**Issue 3: Duplicate Keys on Rerun**
-```python
-# Solution: Idempotent upsert pattern
-sql = '''
-    INSERT INTO listings VALUES (...)
-    ON CONFLICT (id) DO UPDATE SET ...
-'''
-```
-
-</details>
-
-#### 📊 Performance Metrics
-
-| Metric | Value |
-|--------|-------|
-| **Records Processed** | 50,000+ daily |
-| **Pipeline Runtime** | ~45 seconds |
-| **Success Rate** | 99.8% |
-| **Data Freshness** | < 5 minutes |
-
-#### 🎓 Key Learnings
-
-- **CSV Hell**: NULL semantics, encoding issues, delimiter edge cases
-- **Airflow Templating**: Using `{{ ds }}`, `{{ execution_date }}` for idempotency
-- **Custom Operators**: Extending BaseOperator, using Hooks properly
-- **Production Debugging**: Reading logs, understanding task retries
 
 #### 💻 Tech Stack
-
 `Apache Airflow 3.x` `PostgreSQL` `AWS S3` `Python` `Docker` `Pandas`
 
 ---
 
 ### 2️⃣ **Wikipedia Pageviews Analytics Pipeline**
-[![Repo](https://img.shields.io/badge/Repo-wiki--pipeline-green?style=for-the-badge&logo=github)](https://github.com/sumanthmalipeddi/wiki-pipeline)
-[![Stars](https://img.shields.io/github/stars/sumanthmalipeddi/wiki-pipeline?style=for-the-badge)](https://github.com/sumanthmalipeddi/wiki-pipeline/stargazers)
 
 <div align="center">
 
-#### 📊 DAG Success Graph
-
-<img src="https://github.com/sumanthmalipeddi/wiki-pipeline/blob/main/images/graph_success.png?raw=true" width="700" alt="DAG Graph"/>
-
-#### ✅ Workflow Execution
-
-<img src="https://github.com/sumanthmalipeddi/wiki-pipeline/blob/main/images/workflow_success.png?raw=true" width="700" alt="Workflow Success"/>
+[![GitHub Repo](https://img.shields.io/badge/GitHub-wiki--pipeline-181717?style=for-the-badge&logo=github)](https://github.com/sumanthmalipeddi/wiki-pipeline)
+![Stars](https://img.shields.io/github/stars/sumanthmalipeddi/wiki-pipeline?style=for-the-badge&color=yellow)
 
 </div>
 
+<table>
+<tr>
+<td width="50%">
+
+#### 📊 DAG Success Graph
+
+<img src="https://github.com/sumanthmalipeddi/wiki-pipeline/blob/main/images/graph_success.png?raw=true" width="100%" alt="DAG Graph"/>
+
+</td>
+<td width="50%">
+
+#### ✅ Workflow Execution
+
+<img src="https://github.com/sumanthmalipeddi/wiki-pipeline/blob/main/images/workflow_success.png?raw=true" width="100%" alt="Workflow Success"/>
+
+</td>
+</tr>
+</table>
+
 #### 📝 Project Overview
 
-Automated **hourly ETL pipeline** tracking Wikipedia pageview statistics for tech companies using distributed task execution.
+Automated **hourly ETL pipeline** tracking Wikipedia pageview statistics using distributed Celery workers.
 
-#### 🎯 Problem Statement
+#### 🎯 Problem → Solution → Impact
 
+**Problem:**
 - Manual Wikipedia dump downloads inefficient
-- Need real-time pageview tracking for trend analysis
 - Processing large compressed files (500MB+ hourly)
-- Ensuring pipeline reliability for 24/7 operation
+- Need 24/7 reliability for real-time tracking
 
-#### 💡 Solution Architecture
+**Solution:**
+- CeleryExecutor for distributed processing
+- Streaming decompression for memory efficiency
+- PostgreSQL time-series tables with indexes
 
-```yaml
-Architecture Components:
-
-  Orchestration Layer:
-    - Apache Airflow 3.1.5
-    - CeleryExecutor for distributed processing
-    - Redis as message broker
-
-  Data Flow:
-    1. Download Phase (27s):
-       - Fetch Wikipedia pageview dumps (hourly)
-       - Decompress gzip files
-       - Validate file integrity
-
-    2. Transform Phase (2s):
-       - Filter tech company pages
-       - Aggregate view counts
-       - Handle encoding issues
-
-    3. Load Phase (<1s):
-       - Bulk insert to PostgreSQL 16
-       - Create time-series indexes
-       - Update aggregate tables
-
-  Infrastructure:
-    - Docker Compose orchestration
-    - PostgreSQL for analytics
-    - Redis for task queue
-    - Celery workers (3 instances)
-```
-
-#### 🔥 Key Features
-
-✅ **Sub-40 Second Full ETL** - Optimized for performance  
-✅ **Distributed Processing** - CeleryExecutor scales horizontally  
-✅ **Fault Tolerant** - Automatic retries and error recovery  
-✅ **Real-time Monitoring** - Airflow UI dashboards  
-✅ **Production Ready** - Docker containerization
-
-#### 📊 Performance Breakdown
-
-| Phase | Duration | Optimization |
-|-------|----------|--------------|
-| **Download & Extract** | 27s | Parallel downloads, streaming decompression |
-| **Transform** | 2s | In-memory processing, efficient filtering |
-| **Load** | <1s | Bulk inserts, connection pooling |
-| **Total Pipeline** | ~39s | End-to-end automation |
-
-#### 🛠️ Technical Implementation
-
-<details>
-<summary><b>CeleryExecutor Configuration</b></summary>
-
-```python
-# airflow.cfg
-executor = CeleryExecutor
-
-[celery]
-broker_url = redis://redis:6379/0
-result_backend = db+postgresql://airflow:airflow@postgres/airflow
-worker_concurrency = 4
-```
-
-**Benefits:**
-- Horizontal scaling: Add workers as needed
-- Task isolation: Failed tasks don't affect others
-- Better resource utilization
-
-</details>
-
-<details>
-<summary><b>Data Transformation Logic</b></summary>
-
-```python
-# Filter top tech companies
-companies = ['Google', 'Amazon', 'Apple', 'Microsoft', 'Facebook']
-
-# Efficient filtering using generators
-def process_pageviews(dump_file):
-    for line in decompress_stream(dump_file):
-        page, views = parse_line(line)
-        if any(company in page for company in companies):
-            yield {
-                'page': page,
-                'views': int(views),
-                'timestamp': datetime.utcnow()
-            }
-```
-
-</details>
-
-#### 🎓 Key Learnings
-
-- **Distributed Systems**: CeleryExecutor vs LocalExecutor tradeoffs
-- **Performance Tuning**: Streaming vs batch processing
-- **Docker Networking**: Service discovery, health checks
-- **Monitoring**: Airflow metrics, log aggregation
+**Impact:**
+- ✅ **39-second full ETL cycle** (download 27s, transform 2s, load <1s)
+- ✅ **24/7 automated operation** with fault tolerance
+- ✅ **Tech company trends** tracked in real-time
 
 #### 💻 Tech Stack
-
 `Apache Airflow 3.1.5` `PostgreSQL 16` `Celery` `Redis` `Docker Compose` `Python`
 
 ---
 
 ### 3️⃣ **Prompt Engineering Study Repository**
-[![Repo](https://img.shields.io/badge/Repo-promptengineering__study-purple?style=for-the-badge&logo=github)](https://github.com/sumanthmalipeddi/promptengineering_study)
-[![Stars](https://img.shields.io/github/stars/sumanthmalipeddi/promptengineering_study?style=for-the-badge)](https://github.com/sumanthmalipeddi/promptengineering_study/stargazers)
+
+<div align="center">
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-promptengineering__study-181717?style=for-the-badge&logo=github)](https://github.com/sumanthmalipeddi/promptengineering_study)
+![Stars](https://img.shields.io/github/stars/sumanthmalipeddi/promptengineering_study?style=for-the-badge&color=yellow)
+
+</div>
 
 #### 📝 Project Overview
 
 Systematic exploration of **prompt engineering techniques** for production LLM applications and RAG systems.
 
-#### 🎯 Research Focus
+#### 🔬 Study Areas
 
-Building reliable, reproducible prompting patterns for:
-- Classification tasks (sentiment, intent, entity types)
-- Summarization (financial reports, technical docs)
-- Reasoning (multi-step problem solving, CoT)
-- RAG systems (query rewriting, context ranking)
-
-#### 💡 Study Areas
-
-```yaml
-Prompt Patterns Explored:
-
-1. Few-Shot Learning:
-   - 0-shot vs 1-shot vs 5-shot comparison
-   - Example selection strategies
-   - Task-specific template design
-
-2. Chain-of-Thought (CoT):
-   - Step-by-step reasoning prompts
-   - Self-consistency sampling
-   - CoT vs direct prompting benchmarks
-
-3. Role-Based Prompting:
-   - System message engineering
-   - Persona consistency
-   - Domain expert emulation
-
-4. Structured Output:
-   - JSON mode forcing
-   - Schema-guided generation
-   - Pydantic model integration
-
-5. RAG-Specific Techniques:
-   - Query decomposition
-   - Hypothetical document embeddings
-   - Re-ranking prompts
-```
-
-#### 🔬 Experimental Setup
-
-<details>
-<summary><b>Evaluation Framework</b></summary>
-
-```python
-# Systematic prompt testing
-experiments = [
-    {
-        'technique': 'few_shot',
-        'variants': [0, 1, 3, 5],  # number of examples
-        'metrics': ['accuracy', 'consistency', 'latency']
-    },
-    {
-        'technique': 'cot',
-        'variants': ['standard', 'self_consistency', 'least_to_most'],
-        'metrics': ['reasoning_quality', 'answer_accuracy']
-    }
-]
-
-# Models tested: GPT-4, Claude 3.5, Llama 3
-```
-
-</details>
-
-#### 📊 Key Findings
-
-| Technique | Use Case | Improvement |
-|-----------|----------|-------------|
-| **Few-Shot** | Classification | +23% accuracy vs 0-shot |
-| **CoT** | Math reasoning | +41% correct answers |
-| **Role-Based** | Domain tasks | +18% expert alignment |
+| Technique | Use Case | Improvement vs Baseline |
+|-----------|----------|------------------------|
+| **Few-Shot Learning** | Classification tasks | +23% accuracy |
+| **Chain-of-Thought** | Math reasoning | +41% correctness |
+| **Role-Based Prompting** | Domain expertise | +18% alignment |
 | **Structured Output** | Data extraction | -67% parsing errors |
 
-#### 🎓 Practical Applications
-
-- **Resume Analyzer**: 5-shot prompting for skill extraction
-- **Financial Sentiment**: CoT for nuanced sentiment reasoning
-- **RAG Query Rewriter**: Decomposition for better retrieval
-
 #### 💻 Tech Stack
-
 `Python` `LangChain` `OpenAI API` `Claude API` `Jupyter` `Pandas`
 
 ---
 
 ### 4️⃣ **Spotify Trending Telugu Songs ETL**
-[![Repo](https://img.shields.io/badge/Repo-spotify__trending__telugu-1DB954?style=for-the-badge&logo=spotify)](https://github.com/sumanthmalipeddi/spotify_trending_telugu)
 
 <div align="center">
 
-#### 🎵 ETL Architecture
+[![GitHub Repo](https://img.shields.io/badge/GitHub-spotify__trending__telugu-1DB954?style=for-the-badge&logo=spotify)](https://github.com/sumanthmalipeddi/spotify_trending_telugu)
+
+#### 🎵 Serverless ETL Architecture
 
 <img src="https://github.com/sumanthmalipeddi/spotify_trending_telugu/blob/main/Architecture.png?raw=true" width="700" alt="Spotify ETL Architecture"/>
 
@@ -667,70 +515,47 @@ experiments = [
 
 Serverless ETL pipeline extracting trending Telugu music data from Spotify API to AWS S3.
 
-#### 💡 Architecture Highlights
-
-- **AWS Lambda** for serverless execution
-- **CloudWatch Events** for scheduled triggers
-- **Spotipy SDK** for API interactions
-- **S3** for data lake storage
-
-#### 🔥 Features
-
-✅ Automated daily music trend collection  
-✅ Serverless architecture (no infrastructure management)  
-✅ Cost-efficient (pay-per-execution)  
-✅ JSON to Parquet transformation
-
 #### 💻 Tech Stack
-
 `AWS Lambda` `Spotipy API` `AWS S3` `CloudWatch` `Python`
 
 ---
 
 ### 5️⃣ **Skills & Resume Intelligence Analyzer**
-[![Repo](https://img.shields.io/badge/Repo-llm__carrerasst-orange?style=for-the-badge&logo=github)](https://github.com/sumanthmalipeddi/llm_carrerasst)
+
+<div align="center">
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-llm__carrerasst-FF6B6B?style=for-the-badge&logo=github)](https://github.com/sumanthmalipeddi/llm_carrerasst)
+
+</div>
 
 #### 📝 Project Overview
 
-AI-powered web application for **resume analysis**, **ATS scoring**, and **salary prediction** using NLP.
+AI-powered resume analysis with **NLP-based skill extraction**, **ATS scoring**, and **salary prediction**.
 
-#### 💡 Key Features
-
-✅ **Named Entity Recognition** - Extract skills, education, experience  
-✅ **ATS Alignment Scoring** - Match resume to job descriptions  
-✅ **Salary Prediction** - XGBoost model with 50GB+ training data  
-✅ **Streamlit UI** - Interactive, user-friendly interface
-
-#### 📊 Model Performance
-
-| Metric | Value |
-|--------|-------|
-| **Skill Extraction Accuracy** | 94.2% |
-| **Salary Prediction MAE** | $3,200 |
-| **Processing Time** | < 2 seconds |
+**Key Features:**
+- ✅ 94.2% skill extraction accuracy (spaCy NER)
+- ✅ XGBoost salary prediction (50GB+ training data)
+- ✅ ATS alignment scoring with keyword matching
+- ✅ Deployed on AWS EC2 with Streamlit UI
 
 #### 💻 Tech Stack
-
 `Streamlit` `spaCy` `XGBoost` `Scikit-learn` `AWS EC2` `NLP`
 
 ---
 
 ### 6️⃣ **Housing Data Analytics & Engineering**
-[![Repo](https://img.shields.io/badge/Repo-Housing__Data--Analytics--Engineering-red?style=for-the-badge&logo=github)](https://github.com/sumanthmalipeddi/Housing_Data-Analytics-Engineering)
+
+<div align="center">
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Housing__Data--Analytics--Engineering-4ECDC4?style=for-the-badge&logo=github)](https://github.com/sumanthmalipeddi/Housing_Data-Analytics-Engineering)
+
+</div>
 
 #### 📝 Project Overview
 
-Comprehensive demonstration of **modern data engineering** techniques applied to real estate market data.
-
-#### 💡 ETL Pipeline
-
-- Data extraction from multiple sources
-- Transformation using Pandas and SQL
-- Visualization with Plotly
-- Statistical analysis and modeling
+Modern data engineering showcase with ETL techniques for real estate market analysis.
 
 #### 💻 Tech Stack
-
 `Python` `Jupyter` `Pandas` `SQL` `Plotly` `NumPy`
 
 ---
@@ -739,18 +564,26 @@ Comprehensive demonstration of **modern data engineering** techniques applied to
 
 <div align="center">
 
-### 📈 Contribution Stats
+### 📈 Contribution Statistics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumanthmalipeddi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B9CFF&icon_color=3B9CFF&text_color=C9D1D9&rank_icon=github"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanthmalipeddi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B9CFF&text_color=C9D1D9&langs_count=8"/>
+<a href="https://github.com/sumanthmalipeddi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumanthmalipeddi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B9CFF&icon_color=3B9CFF&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/sumanthmalipeddi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanthmalipeddi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B9CFF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+</a>
 
 ### 🔥 Contribution Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sumanthmalipeddi&theme=tokyonight&hide_border=true&background=0D1117&ring=3B9CFF&fire=3B9CFF&currStreakLabel=3B9CFF&sideNums=3B9CFF&currStreakNum=FFFFFF&sideLabels=C9D1D9&dates=C9D1D9)](https://git.io/streak-stats)
+<a href="https://github.com/sumanthmalipeddi">
+  <img src="https://streak-stats.demolab.com?user=sumanthmalipeddi&theme=tokyonight&hide_border=true&background=0D1117&ring=3B9CFF&fire=3B9CFF&currStreakLabel=3B9CFF&sideNums=3B9CFF&currStreakNum=FFFFFF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak"/>
+</a>
 
-### 📊 Activity Graph
+### 📊 Contribution Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sumanthmalipeddi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B9CFF&line=3B9CFF&point=FFFFFF&area=true&area_color=3B9CFF)
+<a href="https://github.com/sumanthmalipeddi">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumanthmalipeddi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B9CFF&line=3B9CFF&point=FFFFFF&area=true&area_color=3B9CFF" alt="Activity Graph" width="100%"/>
+</a>
 
 ### 🏆 GitHub Trophies
 
@@ -764,36 +597,29 @@ Comprehensive demonstration of **modern data engineering** techniques applied to
 
 <div align="center">
 
+| 🎓 Credential | 🏢 Issuer | 📅 Date | 🔗 Link |
+|---------------|-----------|---------|---------|
+| **MS Data Science & AI** (CGPA: 9.50/10) | IISER Tirupati | Aug 2025 | Degree |
+| **Complete Data Science, ML, DL, NLP Bootcamp** | Udemy | Apr 2025 | [Certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-04059c6b-c210-4409-bb19-1c1bdb005c16.jpg) |
+| **Mathematics for Data Science & GenAI** | Udemy | Oct 2024 | [Certificate](https://www.udemy.com/certificate/UC-385046d4-6cfd-475a-a4f3-557f1bd091f3/) |
+| **AWS Cloud Practitioner Essentials** | AWS | 2024 | Completed |
+
+### 🔥 Learning Consistency Streaks
+
 <table>
 <tr>
-  <th>🎓 Certification</th>
-  <th>🏢 Issuer</th>
-  <th>📅 Date</th>
-  <th>🔗 Credential</th>
-</tr>
-<tr>
-  <td><b>MS Data Science & AI</b><br/>CGPA: 9.50/10</td>
-  <td>IISER Tirupati</td>
-  <td>Aug 2025</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td><b>Complete Data Science, ML, DL, NLP Bootcamp</b></td>
-  <td>Udemy</td>
-  <td>Apr 2025</td>
-  <td><a href="https://udemy-certificate.s3.amazonaws.com/image/UC-04059c6b-c210-4409-bb19-1c1bdb005c16.jpg">View</a></td>
-</tr>
-<tr>
-  <td><b>Mathematics for Data Science & GenAI</b></td>
-  <td>Udemy</td>
-  <td>Oct 2024</td>
-  <td><a href="https://www.udemy.com/certificate/UC-385046d4-6cfd-475a-a4f3-557f1bd091f3/">View</a></td>
-</tr>
-<tr>
-  <td><b>AWS Cloud Practitioner Essentials</b></td>
-  <td>AWS</td>
-  <td>2024</td>
-  <td>-</td>
+<td align="center">
+<img src="https://img.shields.io/badge/DSA_Practice-120+_Days-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA"/>
+<br/><b>LeetCode Daily</b>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Duolingo-1100+_Days-58CC02?style=for-the-badge&logo=duolingo&logoColor=white" alt="Duolingo"/>
+<br/><b>Language Learning</b>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Brilliant-593+_Days-00D4AA?style=for-the-badge&logo=brilliant&logoColor=white" alt="Brilliant"/>
+<br/><b>Math & CS</b>
+</td>
 </tr>
 </table>
 
@@ -803,9 +629,9 @@ Comprehensive demonstration of **modern data engineering** techniques applied to
 
 ## 📚 Learning Journey
 
-### 🔥 Current Learning Streak: 120+ Days
-
 <div align="center">
+
+### 🔥 Multi-Platform Learning Consistency
 
 ```mermaid
 gantt
@@ -816,11 +642,12 @@ gantt
     Kafka Streaming             :active, 2026-01-15, 45d
     dbt Advanced Patterns       :active, 2026-02-01, 30d
     Apache Iceberg              :2026-02-15, 45d
-    section DSA
-    Daily LeetCode              :done, 2025-10-01, 120d
+    section DSA & System Design
+    Daily LeetCode (120+ days)  :done, 2025-10-01, 120d
     System Design               :active, 2026-01-01, 90d
-    section Cloud
+    section Cloud Platforms
     Snowflake Training          :active, 2026-01-20, 40d
+    Databricks Certification    :2026-02-15, 50d
     AWS Solutions Architect     :2026-03-01, 60d
 ```
 
@@ -828,11 +655,43 @@ gantt
 
 ### 📖 Currently Reading
 
-| 📚 Book | 👤 Author | 📊 Progress |
-|---------|-----------|-------------|
-| **Fundamentals of Data Engineering** | Joe Reis & Matt Housley | ████████░░ 80% |
-| **Designing Data-Intensive Applications** | Martin Kleppmann | ██████░░░░ 60% |
-| **System Design Interview Vol. 2** | Alex Xu | ████░░░░░░ 40% |
+<table>
+<tr>
+<td width="33%" align="center">
+
+📚 **Fundamentals of Data Engineering**
+
+*Joe Reis & Matt Housley*
+
+<img src="https://img.shields.io/badge/Status-✅_Completed-brightgreen?style=for-the-badge"/>
+
+Finished all chapters including Security & Future of DE
+
+</td>
+<td width="33%" align="center">
+
+📚 **Hands-On Machine Learning**
+
+*Aurélien Géron*
+
+<img src="https://img.shields.io/badge/Status-📖_In_Progress-blue?style=for-the-badge"/>
+
+Deep diving into ensemble methods and neural networks
+
+</td>
+<td width="33%" align="center">
+
+📚 **Designing Data-Intensive Applications**
+
+*Martin Kleppmann*
+
+<img src="https://img.shields.io/badge/Status-🆕_Just_Started-orange?style=for-the-badge"/>
+
+Starting with data models and query languages
+
+</td>
+</tr>
+</table>
 
 ### 📝 Recent Activity Log
 
@@ -840,11 +699,11 @@ gantt
 <summary><b>🗓️ February 2026 Progress</b></summary>
 
 ```python
-learning_log = {
+daily_learning = {
     "Day 136": {
         "topic": "Apache Airflow - Custom Operators",
         "achievement": "Built PostgresToS3Operator with templating",
-        "learning": "Understanding BaseOperator, Hooks, and XComs"
+        "impact": "Reusable operator for 5+ future projects"
     },
     "Day 135": {
         "topic": "ETL Pipeline Design",
@@ -853,38 +712,23 @@ learning_log = {
     },
     "Day 134": {
         "topic": "DSA - Dynamic Programming",
-        "achievement": "Kadane's Algorithm O(n) solution",
-        "learning": "Subarray optimization, DP state management"
+        "achievement": "Kadane's Algorithm O(n) optimization",
+        "learning": "Maximum subarray problem solving"
     },
     "Day 131": {
         "topic": "Algorithms - Dutch National Flag",
         "achievement": "3-way partitioning in O(n)",
-        "learning": "In-place sorting, pointer manipulation"
+        "learning": "In-place sorting with pointers"
     },
     "Day 130": {
         "topic": "Airflow - Branching & Trigger Rules",
-        "achievement": "BranchPythonOperator implementation",
+        "achievement": "BranchPythonOperator for ERP migration",
         "learning": "Conditional workflows, none_failed trigger"
     }
 }
 ```
 
 </details>
-
-### 📊 Skills Development Progress
-
-<div align="center">
-
-| Skill | Proficiency | Hours Invested |
-|-------|-------------|----------------|
-| Apache Airflow | ████████░░ 85% | 300+ hours |
-| Apache Kafka | ███████░░░ 70% | 150+ hours |
-| PostgreSQL | █████████░ 90% | 400+ hours |
-| Python | █████████░ 95% | 1000+ hours |
-| dbt | ██████░░░░ 65% | 100+ hours |
-| DSA | ███████░░░ 75% | 250+ hours |
-
-</div>
 
 ---
 
@@ -901,15 +745,18 @@ learning_log = {
 
 **CGPA: 9.50/10** 🏆
 
-#### 📚 Relevant Coursework
+#### 📚 Key Coursework
 - Mathematics & Statistics for Data Science
 - Data Structures & Algorithms
-- Database Management Systems
 - Machine Learning & Deep Learning
-- Statistical Analysis & Hypothesis Testing
 - Natural Language Processing
 - Big Data Analytics & ETL Pipelines
 - Cloud Computing & MLOps
+
+#### 🔬 Notable Projects
+- **Financial Sentiment Analysis**: 87% F1-score with transformers
+- **Real-time ETL Pipeline**: 60% processing time reduction
+- **Skills & Resume Analyzer**: 50GB+ dataset processing
 
 </td>
 <td width="30%" align="center">
@@ -918,41 +765,11 @@ learning_log = {
 
 <img src="https://img.shields.io/badge/Rank-Top%205%25-blue?style=for-the-badge" alt="Rank"/>
 
+<img src="https://img.shields.io/badge/Thesis-ML_for_Predictive_Analytics-purple?style=for-the-badge" alt="Thesis"/>
+
 </td>
 </tr>
 </table>
-
-#### 🔬 Key Academic Projects
-
-<details>
-<summary><b>1. Financial Sentiment Analysis with Transformers</b></summary>
-
-- Fine-tuned BERT model on financial news corpus (10M+ tokens)
-- Achieved **87% F1-score** on multi-class sentiment classification
-- Deployed model API serving 1000+ requests/day
-- **Tech:** Transformers, PyTorch, FastAPI, Docker
-
-</details>
-
-<details>
-<summary><b>2. Real-time ETL Pipeline for IoT Sensors</b></summary>
-
-- Built streaming pipeline processing 10K events/second
-- **60% reduction** in data processing latency
-- Implemented anomaly detection with 95% accuracy
-- **Tech:** Kafka, Flink, TimescaleDB, Grafana
-
-</details>
-
-<details>
-<summary><b>3. A/B Testing Framework for ML Models</b></summary>
-
-- Designed experimentation platform for model deployment
-- **45% improvement** in model performance metrics
-- Automated statistical significance testing
-- **Tech:** Python, PostgreSQL, Streamlit, MLflow
-
-</details>
 
 ---
 
@@ -961,9 +778,9 @@ learning_log = {
 **Bachelor of Technology - Civil Engineering**  
 *2014 - 2018 | CGPA: 8.542*
 
-- Top performer in mathematics and analytics
-- Foundation in problem-solving and data-driven decision making
-- Transitioned to Data Science through self-learning and upskilling
+- Strong foundation in mathematics and analytics
+- Data-driven problem solving and statistical analysis
+- Transitioned to Data Science through continuous upskilling
 
 ---
 
@@ -973,90 +790,62 @@ learning_log = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=Get%20In%20Touch&fontSize=30&fontColor=fff&animation=twinkling" width="100%"/>
 
-<h3>I'm always open to interesting conversations and collaboration opportunities!</h3>
+### 💼 I'm Open to Collaboration and Opportunities!
+
+</div>
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-### 💼 Professional
+### 💼 LinkedIn
 
 <a href="https://linkedin.com/in/sumanth-malipeddi">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-**Connect for:**
-- Job opportunities
-- Professional networking
-- Project collaborations
+**2,300+ Followers**
+
+Connect for professional networking and opportunities
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-### 💻 Technical
+### 💻 GitHub
 
 <a href="https://github.com/sumanthmalipeddi">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-**Explore:**
-- Open source projects
-- Code contributions
-- Technical discussions
+**31+ Repositories**
+
+Explore open-source projects and contributions
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-### 📧 Direct Contact
+### 📧 Email
 
 <a href="mailto:sumanth.9666@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-**Reach out for:**
-- Mentorship requests
-- Speaking opportunities
-- Technical consultations
+**Direct Contact**
+
+For collaborations, mentorship, consulting
 
 </td>
-</tr>
-</table>
+<td align="center" width="25%">
+
+### 🐦 Twitter/X
 
 <a href="https://x.com/Sumanth9666">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
 </a>
 
----
+**Tech Updates**
 
-### 🎯 Open To Opportunities
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-**🔧 Data Engineering**
-
-Building scalable ETL pipelines  
-Lakehouse architectures  
-Real-time streaming systems
-
-</td>
-<td align="center" width="33%">
-
-**🤖 ML Engineering**
-
-Model deployment & serving  
-MLOps pipelines  
-Feature engineering
-
-</td>
-<td align="center" width="33%">
-
-**🧠 AI Engineering**
-
-RAG systems  
-Semantic search  
-LLM integration
+Follow for learning updates and insights
 
 </td>
 </tr>
@@ -1064,27 +853,91 @@ LLM integration
 
 ---
 
-### 📊 Quick Stats
+<div align="center">
 
-<img src="https://img.shields.io/badge/Experience-4%2B%20Years-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Projects-31%2B-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DSA%20Streak-120%2B%20Days-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LinkedIn-2.3K%20Followers-blue?style=for-the-badge"/>
+### 🎯 Open To Opportunities
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🤖 AI Engineer
+
+Building RAG systems  
+Semantic search infrastructure  
+LLM integration & optimization  
+Prompt engineering
+
+</td>
+<td align="center" width="25%">
+
+### 🔧 Data Engineer
+
+Scalable ETL pipelines  
+Lakehouse architectures  
+Real-time streaming  
+Data quality frameworks
+
+</td>
+<td align="center" width="25%">
+
+### 🤖 ML Engineer
+
+Model deployment & serving  
+MLOps pipelines  
+Feature engineering  
+A/B testing frameworks
+
+</td>
+<td align="center" width="25%">
+
+### 📊 Analytics Engineer
+
+dbt transformations  
+Data modeling  
+BI infrastructure  
+Metrics & KPIs
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 💡 Fun Facts
+### 📊 Profile Highlights
+
+<img src="https://img.shields.io/badge/Experience-4%2B%20Years-blue?style=for-the-badge" alt="Experience"/>
+<img src="https://img.shields.io/badge/Projects-31%2B%20Repos-green?style=for-the-badge" alt="Projects"/>
+<img src="https://img.shields.io/badge/DSA_Streak-120%2B%20Days-orange?style=for-the-badge" alt="DSA"/>
+<img src="https://img.shields.io/badge/Duolingo-1100%2B%20Days-58CC02?style=for-the-badge" alt="Duolingo"/>
+<img src="https://img.shields.io/badge/Brilliant-593%2B%20Days-00D4AA?style=for-the-badge" alt="Brilliant"/>
+
+---
+
+### 💡 Fun Facts About Me
 
 ```python
-fun_facts = {
-    "🎯 Philosophy": "Production pipelines live in edge cases",
-    "☕ Code Fuel": "Coffee + Claude AI",
-    "🎵 Coding Music": "Lo-fi beats + focus playlists",
-    "📚 Learning Style": "Build → Break → Learn → Document",
-    "🌟 Motivation": "Every failed DAG run is a lesson",
-    "🚀 Goal": "Building data systems that power the future"
+sumanth = {
+    "🎯 Philosophy": "Production pipelines live in edge cases, not happy paths",
+    "☕ Daily Fuel": "Coffee + Claude AI + Perplexity",
+    "🎵 Coding Music": "Lo-fi beats & instrumental focus playlists",
+    "📚 Learning Style": "Build → Break → Debug → Document → Share",
+    "🌟 Motivation": "Every failed pipeline is a lesson in disguise",
+    "🚀 Mission": "Building data systems that power the AI future",
+    "🔥 Consistency": "1100+ day Duolingo streak proves dedication",
+    "💡 Belief": "AI tools accelerate learning, not replace it"
 }
 ```
+
+---
+
+### 🤝 What I'm Looking For
+
+✅ **Product companies** building data-intensive systems  
+✅ **AI/ML teams** working on RAG and semantic search  
+✅ **Data engineering roles** with modern tech stack  
+✅ **Mentorship opportunities** to guide aspiring data professionals  
+✅ **Open-source collaborations** in data engineering space  
 
 </div>
 
@@ -1094,17 +947,18 @@ fun_facts = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
-<h3>⭐ If you find my work helpful, consider starring my repositories!</h3>
+### ⭐ If you find my work valuable, consider starring my repositories!
 
 <p>
-<img src="https://img.shields.io/badge/Made%20with-❤️%20and%20☕-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Powered%20by-Curiosity%20%26%20Code-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Made%20with-❤️%20and%20☕-red?style=for-the-badge" alt="Made with love"/>
+<img src="https://img.shields.io/badge/Powered%20by-Curiosity%20%26%20Code-blue?style=for-the-badge" alt="Powered by curiosity"/>
+<img src="https://img.shields.io/badge/Built%20for-The%20Future-purple?style=for-the-badge" alt="Built for future"/>
 </p>
 
-<h4>© 2026 Sumanth Malipeddi | Building production systems one pipeline at a time 🚀</h4>
+### © 2026 Sumanth Malipeddi | Building production systems one pipeline at a time 🚀
 
-**"The best way to predict the future is to build it."**
+**"The best way to predict the future is to build it with data."**
 
-<sub>Last updated: February 2026</sub>
+<sub>Last updated: February 2026 | README version 2.0</sub>
 
 </div>
