@@ -19,6 +19,13 @@
 
 </div>
 
+<div align="center">
+
+| &nbsp;&nbsp;&nbsp;[👨‍💻 About](#-about-me)&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;[🛠️ Tech](#%EF%B8%8F-tech-stack)&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;[💼 Experience](#-professional-experience)&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;[📚 Learning](#-learning-journey)&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;[🚀 Projects](#-featured-projects)&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;[📫 Connect](#-lets-connect)&nbsp;&nbsp;&nbsp; |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
+</div>
+
 ---
 
 ## 👨‍💻 About Me
@@ -65,7 +72,16 @@ const sumanth = {
 💻 LeetCode       120+ days  ████████░░░░░░░░░░░░  DSA Daily
 ```
 
-### 💡 Philosophy
+### 💡 Quick Facts
+
+| | |
+|:--|:--|
+| 🥤 **Fuel** | Protein + Claude AI |
+| 🎵 **Codes to** | Lo-fi beats |
+| 📚 **Style** | Build → Break → Learn |
+| 🌟 **Belief** | Every failure teaches |
+
+### 💬 Philosophy
 
 > *"Production pipelines live in edge cases. Real learning happens when things break."*
 
