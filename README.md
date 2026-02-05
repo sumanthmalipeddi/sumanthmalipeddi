@@ -1,92 +1,148 @@
 <div align="center">
 
-# 👋 Hi, I'm Sumanth Malipeddi
-
-### 🚀 AI & Data Engineer | Building Production Systems
+<!-- Clean, Reliable Header -->
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║     ███████╗██╗   ██╗███╗   ███╗ █████╗ ███╗   ██╗████████╗██╗  ██╗          ║
+║     ██╔════╝██║   ██║████╗ ████║██╔══██╗████╗  ██║╚══██╔══╝██║  ██║          ║
+║     ███████╗██║   ██║██╔████╔██║███████║██╔██╗ ██║   ██║   ███████║          ║
+║     ╚════██║██║   ██║██║╚██╔╝██║██╔══██║██║╚██╗██║   ██║   ██╔══██║          ║
+║     ███████║╚██████╔╝██║ ╚═╝ ██║██║  ██║██║ ╚████║   ██║   ██║  ██║          ║
+║     ╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝          ║
+║                                                                              ║
+║                    AI & Data Engineer • Pipeline Architect                   ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
 <br/>
 
-**`Associate Data Science Engineer @ GetMySaas`**
+### `> ./whoami`
 
-**`Python • SQL • Kafka • Databricks • dbt • Snowflake`**
-
-**`MS Data Science & AI @ IISER Tirupati (9.5 CGPA)`**
+```python
+{
+    "role": "Associate Data Science Engineer @ GetMySaas",
+    "education": "MS Data Science & AI | IISER Tirupati | 9.5 CGPA",
+    "mission": "Turning chaotic data into intelligent systems",
+    "status": "Building RAG pipelines & breaking things to learn"
+}
+```
 
 <br/>
 
-<!-- Social Badges -->
-<a href="https://linkedin.com/in/sumanth-malipeddi">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
-</a>
-<a href="mailto:sumanth.9666@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
-</a>
-<a href="https://x.com/Sumanth9666">
-<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" height="35"/>
-</a>
-<a href="https://github.com/sumanthmalipeddi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/>
-</a>
+<a href="https://linkedin.com/in/sumanth-malipeddi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/></a>&nbsp;
+<a href="mailto:sumanth.9666@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32"/></a>&nbsp;
+<a href="https://x.com/Sumanth9666"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" height="32"/></a>&nbsp;
+<a href="https://github.com/sumanthmalipeddi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32"/></a>
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=sumanthmalipeddi&label=Profile%20Views&color=0e75b6&style=for-the-badge" height="28"/>
-<img src="https://img.shields.io/github/followers/sumanthmalipeddi?label=Followers&style=for-the-badge&color=blue" height="28"/>
-<img src="https://img.shields.io/github/stars/sumanthmalipeddi?label=Stars&style=for-the-badge&color=yellow" height="28"/>
+<img src="https://komarev.com/ghpvc/?username=sumanthmalipeddi&label=Visitors&color=0e75b6&style=flat-square"/> · <img src="https://img.shields.io/github/followers/sumanthmalipeddi?label=Followers&style=flat-square&color=blue"/> · <img src="https://img.shields.io/github/stars/sumanthmalipeddi?label=Stars&style=flat-square&color=yellow"/>
 
 </div>
 
 ---
 
-## 🧭 Quick Navigation
+<details>
+<summary><h2>🧭 Navigation</h2></summary>
 
-| [📚 Learning](#-learning-journey) | [💼 Experience](#-professional-experience) | [🛠️ Tech Stack](#%EF%B8%8F-tech-arsenal) | [🚀 Projects](#-featured-projects) | [🏆 Achievements](#-achievements) | [🎓 Education](#-education) | [📫 Connect](#-lets-connect) |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Section | Description |
+|:--------|:------------|
+| [📚 Learning Journey](#-learning-journey) | Books, streaks, and daily practice |
+| [👨‍💻 About Me](#-about-me) | Background and philosophy |
+| [💼 Experience](#-professional-experience) | Work history and impact |
+| [🛠️ Tech Stack](#%EF%B8%8F-tech-arsenal) | Tools and proficiency |
+| [🚀 Projects](#-featured-projects) | Production systems I've built |
+| [🏆 Achievements](#-achievements) | Certifications and milestones |
+| [🎓 Education](#-education) | Academic background |
+| [📫 Connect](#-lets-connect) | Get in touch |
+
+</details>
 
 ---
 
 ## 📚 Learning Journey
 
-<div align="center">
-
-### 🔥 Consistency Streaks
-
-| 🦉 Duolingo | 🧠 Brilliant | 💻 LeetCode |
-|:---:|:---:|:---:|
-| **1100+ Days** | **593+ Days** | **120+ Days** |
-| German Practice | Math & CS | DSA Daily |
+> *"The day you stop learning is the day you stop growing."*
 
 <br/>
 
-### 📖 Currently Reading
+<table>
+<tr>
+<td align="center">
 
-| 📘 Fundamentals of DE | 📗 Hands-On ML | 📙 Designing Data-Intensive Apps |
-|:---:|:---:|:---:|
-| Joe Reis & Matt Housley | Aurélien Géron | Martin Kleppmann |
-| ✅ **Completed** | 📖 **In Progress** | 🆕 **Just Started** |
+### 🔥 The Streak Board
 
-</div>
+</td>
+</tr>
+<tr>
+<td>
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   🦉 DUOLINGO        ████████████████████████████  1100+ days   │
+│      German          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓              │
+│                                                                 │
+│   🧠 BRILLIANT       ██████████████████████░░░░░░   593+ days   │
+│      Math & CS       ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░              │
+│                                                                 │
+│   💻 LEETCODE        ████████░░░░░░░░░░░░░░░░░░░░   120+ days   │
+│      DSA Daily       ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░              │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 📖 Reading List
+
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                                                              │
+│  📘 Fundamentals of Data Engineering          ✅ COMPLETED                   │
+│     Joe Reis & Matt Housley                   "The DE bible - every chapter │
+│                                                changed how I think"          │
+│                                                                              │
+│  📗 Hands-On Machine Learning                 📖 IN PROGRESS                 │
+│     Aurélien Géron                            Currently: Ensemble methods    │
+│                                               & Neural Networks              │
+│                                                                              │
+│  📙 Designing Data-Intensive Applications    🆕 JUST STARTED                │
+│     Martin Kleppmann                          Starting: Data models &        │
+│                                               query languages                │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
 
 <br/>
 
 <details>
-<summary><b>🗓️ 2026 Learning Roadmap (Click to expand)</b></summary>
+<summary><b>🗓️ 2026 Learning Roadmap</b></summary>
+
+<br/>
 
 ```
-Data Engineering Track
-├── ✅ Apache Airflow Mastery (Dec 2025 - Jan 2026)
-├── 🔄 Apache Kafka Streaming (Jan - Feb 2026)
-├── 🔄 dbt Advanced Patterns (Feb 2026)
-└── ⏳ Apache Iceberg & Lakehouse (Feb - Mar 2026)
+Q1 2026
+├── ✅ Apache Airflow Mastery ─────────────── DONE
+├── 🔄 Apache Kafka Streaming ─────────────── IN PROGRESS
+├── 🔄 dbt Advanced Patterns ──────────────── IN PROGRESS
+└── ⏳ Apache Iceberg & Lakehouse ─────────── UPCOMING
 
-DSA & Algorithms Track
-├── ✅ Daily LeetCode 120+ days (Oct 2025 - Jan 2026)
-└── 🔄 System Design Patterns (Jan - Mar 2026)
+Q2 2026
+├── ⏳ Databricks Certification
+├── ⏳ AWS Solutions Architect
+└── ⏳ Advanced System Design
 
-Cloud Platforms Track
-├── 🔄 Snowflake Training (Jan - Feb 2026)
-├── ⏳ Databricks Certification (Feb - Mar 2026)
-└── ⏳ AWS Solutions Architect (Mar - Apr 2026)
+Ongoing
+├── 🔄 System Design Patterns (90 days)
+├── 🔄 Snowflake Training
+└── ✅ Daily LeetCode (120+ days complete)
 ```
 
 </details>
@@ -94,13 +150,15 @@ Cloud Platforms Track
 <details>
 <summary><b>📝 Recent Learning Log</b></summary>
 
-| Day | Topic | Key Learning |
+<br/>
+
+| Day | Focus | What I Learned |
 |:---:|:---:|:---|
-| 136 | Airflow | Built custom PostgresToS3Operator with templating |
-| 135 | ETL | Implemented Postgres → S3 → Docker Pandas workflow |
-| 134 | DSA | Maximum subarray with Kadane's Algorithm O(n) |
-| 131 | DSA | Dutch National Flag: 3-way partitioning O(n) |
-| 130 | Airflow | Branching with BranchPythonOperator |
+| 136 | Airflow | Built custom `PostgresToS3Operator` with Jinja templating |
+| 135 | ETL | End-to-end `Postgres → S3 → Docker Pandas` workflow |
+| 134 | DSA | Kadane's Algorithm for maximum subarray in O(n) |
+| 131 | DSA | Dutch National Flag: 3-way partitioning |
+| 130 | Airflow | Dynamic branching with `BranchPythonOperator` |
 
 </details>
 
@@ -108,114 +166,134 @@ Cloud Platforms Track
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-```yaml
-name: Sumanth Malipeddi
-role: Associate Data Science Engineer
-company: GetMySaas
-location: Tirupati, India
-education: MS Data Science & AI
-institute: IISER Tirupati
-gpa: 9.50/10
-experience: 4+ years
-
-expertise:
-  - AI Engineering & RAG Systems
-  - Data Engineering (Airflow, Kafka)
-  - Machine Learning & NLP
-  - Cloud Platforms (AWS, Databricks)
-
-philosophy: >
-  Production pipelines live in edge cases.
-  Real learning happens when things break.
 ```
-
-</td>
-<td width="50%" valign="top" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="90%"/>
-
-<br/><br/>
-
-**💡 Fun Facts**
-
-| | |
-|:---|:---|
-| ☕ Fuel | Coffee + Claude AI |
-| 🎵 Music | Lo-fi beats |
-| 📚 Style | Build → Break → Learn |
-| 🌟 Belief | Every failure teaches |
-
-</td>
-</tr>
-</table>
+┌────────────────────────────────────────────────────────────────────────────┐
+│                                                                            │
+│   Name        Sumanth Malipeddi                                            │
+│   Role        Associate Data Science Engineer                              │
+│   Company     GetMySaas                                                    │
+│   Location    Tirupati, India                                              │
+│   Education   MS Data Science & AI | IISER Tirupati | 9.50 CGPA            │
+│   Experience  4+ years in data & AI                                        │
+│                                                                            │
+│   ─────────────────────────────────────────────────────────────────────    │
+│                                                                            │
+│   What I Do                                                                │
+│   ├── 🤖 Build RAG systems that actually work in production                │
+│   ├── 🔧 Design data pipelines that don't break at 3am                     │
+│   ├── 📊 Turn messy data into actionable insights                          │
+│   └── ☁️  Deploy ML models that scale                                      │
+│                                                                            │
+│   Philosophy                                                               │
+│   "Production pipelines live in edge cases.                                │
+│    Real learning happens when things break."                               │
+│                                                                            │
+│   Fun Facts                                                                │
+│   ├── ☕ Runs on: Coffee + Claude AI                                       │
+│   ├── 🎵 Codes to: Lo-fi beats                                             │
+│   ├── 📚 Approach: Build → Break → Learn → Repeat                          │
+│   └── 🌟 Belief: Every failure is a lesson in disguise                     │
+│                                                                            │
+└────────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
 ## 💼 Professional Experience
 
-### 🏢 Associate Data Science Engineer @ [GetMySaas](https://getmysaas.com)
-**Oct 2025 - Present | Remote**
+### 🏢 Associate Data Science Engineer
+
+**GetMySaas** · Remote · *Oct 2025 - Present*
 
 <br/>
 
-#### 🎬 The Story: From Chaos to Automation
+#### 📖 The Story
 
-```diff
-@@                    THE PROBLEMS                    @@
-- Manual data collection eating 40+ hours/week
-- CSV NULL semantics causing silent pipeline failures  
-- Zero semantic search for 10,000+ unstructured documents
-- Analysts waiting days for fresh data
+```
+CHAPTER 1: THE CHAOS
+────────────────────────────────────────────────────────────────────────────────
+When I joined, I found:
 
-@@                    THE SOLUTIONS                    @@
-+ 15+ Production Airflow DAGs → 100% automation
-+ Custom operators handling CSV edge cases → 85% fewer incidents
-+ Hybrid search (pgvector + OpenSearch) → 87% answer accuracy
-+ Real-time Kafka streaming → analysts get data in minutes
+    ❌ Manual data collection eating 40+ hours/week
+    ❌ CSV NULL semantics causing silent pipeline failures
+    ❌ Zero semantic search across 10,000+ documents
+    ❌ Analysts waiting DAYS for fresh data
+    ❌ No observability - pipelines failed silently
+
+The data infrastructure was held together with duct tape and prayers.
+────────────────────────────────────────────────────────────────────────────────
+
+
+CHAPTER 2: THE TRANSFORMATION
+────────────────────────────────────────────────────────────────────────────────
+Six months later:
+
+    ✅ 15+ Production Airflow DAGs → 100% automation
+    ✅ Custom operators with proper NULL handling → 85% fewer incidents
+    ✅ Hybrid search (pgvector + OpenSearch) → 87% answer accuracy
+    ✅ Real-time Kafka streaming → data in MINUTES, not days
+    ✅ Great Expectations for data quality → catch issues before they spread
+
+The same team now moves 10x faster.
+────────────────────────────────────────────────────────────────────────────────
 ```
 
 <br/>
+
+#### 💡 What I Built
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🤖 AI Engineering Impact
+**🤖 AI Engineering**
 
-```python
-RAG_System = {
-    "semantic": "pgvector embeddings",
-    "lexical": "OpenSearch BM25",
-    "hybrid": "custom ranking",
-    "accuracy": "87%",
-    "docs_daily": "10,000+",
-    "latency": "<200ms",
-    "stack": ["LangChain", "pgvector", 
-              "OpenSearch", "Tika", "OCR"]
-}
 ```
+RAG System Architecture
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+│
+├─► Semantic Layer
+│   └── pgvector embeddings
+│
+├─► Lexical Layer  
+│   └── OpenSearch BM25
+│
+├─► Hybrid Ranking
+│   └── Custom algorithm
+│
+└─► Results
+    ├── 87% answer accuracy
+    ├── 10,000+ docs/day
+    └── <200ms latency
+```
+
+**Stack:** LangChain · pgvector · OpenSearch · Tika · OCR
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔧 Data Engineering Impact
+**🔧 Data Engineering**
 
-```python
-Lakehouse_Pipeline = {
-    "bronze": "Airbyte → S3",
-    "silver": "Iceberg → dbt",
-    "gold": "Trino → Analytics",
-    "query_speedup": "70%",
-    "users_enabled": "50+",
-    "dag_count": "15+",
-    "stack": ["Airflow", "Kafka", "dbt",
-              "Iceberg", "Great Expectations"]
-}
 ```
+Lakehouse Architecture
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+│
+├─► Bronze Layer
+│   └── Airbyte → S3 (raw)
+│
+├─► Silver Layer
+│   └── Iceberg + dbt (clean)
+│
+├─► Gold Layer
+│   └── Trino → Analytics
+│
+└─► Impact
+    ├── 70% faster queries
+    ├── 50+ analysts enabled
+    └── 15+ DAGs orchestrating
+```
+
+**Stack:** Airflow · Kafka · dbt · Iceberg · Great Expectations
 
 </td>
 </tr>
@@ -223,105 +301,122 @@ Lakehouse_Pipeline = {
 
 <br/>
 
-**Tech Used:** `Python` `SQL` `Airflow` `Kafka` `dbt` `Iceberg` `PostgreSQL` `pgvector` `OpenSearch` `AWS` `Databricks` `Docker`
+**Full Tech Stack:**
+`Python` `SQL` `Airflow` `Kafka` `dbt` `Iceberg` `PostgreSQL` `pgvector` `OpenSearch` `AWS` `Databricks` `Docker`
 
 ---
 
-### 🎓 MS Research @ IISER Tirupati
-**Aug 2024 - Aug 2025 | Master of Science in Data Science & Artificial Intelligence**
+<div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-<h3>87%</h3>
-<b>F1-Score</b><br/>
-<sub>Transformer NLP</sub>
-</td>
-<td align="center" width="25%">
-<h3>60%</h3>
-<b>Time Reduction</b><br/>
-<sub>Kafka + Airflow ETL</sub>
-</td>
-<td align="center" width="25%">
-<h3>50GB+</h3>
-<b>Data Processed</b><br/>
-<sub>99.7% Integrity</sub>
-</td>
-<td align="center" width="25%">
-<h3>45%</h3>
-<b>Improvement</b><br/>
-<sub>A/B Testing</sub>
-</td>
-</tr>
-</table>
+### 🎓 MS Research · IISER Tirupati
+
+**Master of Science in Data Science & Artificial Intelligence**
+
+*Aug 2024 - Aug 2025*
+
+<br/>
+
+```
+┌─────────────────┬─────────────────┬─────────────────┬─────────────────┐
+│                 │                 │                 │                 │
+│      87%        │      60%        │     50GB+       │      45%        │
+│    F1-Score     │   Time Saved    │    Processed    │   Improvement   │
+│                 │                 │                 │                 │
+│  Transformer    │  Kafka+Airflow  │   99.7% Data    │   A/B Testing   │
+│  NLP Model      │  ETL Pipeline   │   Integrity     │   Framework     │
+│                 │                 │                 │                 │
+└─────────────────┴─────────────────┴─────────────────┴─────────────────┘
+```
+
+</div>
 
 ---
 
 ## 🛠️ Tech Arsenal
 
-<div align="center">
+### 🎯 Core Stack
 
-### 🎯 Core Technologies
-
-| Python | SQL | Kafka | Airflow | Databricks | dbt | Snowflake | AWS | Docker |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40"/> | <img src="https://www.svgrepo.com/show/353380/airflow.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="40"/> | <img src="https://seeklogo.com/images/D/dbt-logo-E4B0ED72A2-seeklogo.com.png" width="40"/> | <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> |
-| Primary | Expert | Streaming | Orchestration | Lakehouse | Transform | Warehouse | Cloud | Container |
-
-</div>
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                                                              │
+│   LANGUAGES        Python ████████████████████ Expert                        │
+│                    SQL    ████████████████████ Expert                        │
+│                                                                              │
+│   ORCHESTRATION    Airflow ███████████████████ Production                    │
+│                    Kafka   ██████████████████░ Advanced                      │
+│                                                                              │
+│   TRANSFORMATION   dbt     ██████████████████░ Advanced                      │
+│                    PySpark ████████████████░░░ Proficient                    │
+│                                                                              │
+│   PLATFORMS        AWS        █████████████████ Production                   │
+│                    Databricks ████████████████░ Advanced                     │
+│                    Snowflake  ███████████████░░ Learning                     │
+│                                                                              │
+│   DATABASES        PostgreSQL ████████████████████ Expert                    │
+│                    Redis      █████████████████░░░ Advanced                  │
+│                    OpenSearch ████████████████░░░░ Advanced                  │
+│                                                                              │
+│   CONTAINERS       Docker ████████████████████ Production                    │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
 
 <br/>
 
-### 📊 Skill Proficiency
+### 📊 Skill Matrix
 
 <table>
 <tr>
 <td width="25%" valign="top">
 
-**🤖 AI Engineering**
-> Primary Focus
+#### 🤖 AI Engineering
+> **Primary Focus**
 
 - RAG Systems
 - Semantic Search
 - Vector Databases
 - LLM Integration
 - Prompt Engineering
+- Document Intelligence
 
 </td>
 <td width="25%" valign="top">
 
-**🔧 Data Engineering**
-> Core Expertise
+#### 🔧 Data Engineering
+> **Core Expertise**
 
 - Apache Airflow
 - Apache Kafka
 - dbt & Iceberg
-- ETL Pipelines
+- ETL/ELT Pipelines
 - Data Quality
+- Lakehouse Architecture
 
 </td>
 <td width="25%" valign="top">
 
-**🧠 Machine Learning**
-> Strong Skills
+#### 🧠 Machine Learning
+> **Strong Skills**
 
 - NLP & Transformers
-- MLOps
+- MLOps Pipelines
 - Feature Engineering
 - Model Monitoring
 - A/B Testing
+- Experiment Design
 
 </td>
 <td width="25%" valign="top">
 
-**☁️ Cloud & Data**
-> Advanced
+#### ☁️ Cloud & Data
+> **Advanced**
 
 - AWS Services
 - Databricks
 - Snowflake
 - PostgreSQL
-- Redis & OpenSearch
+- Redis
+- OpenSearch
 
 </td>
 </tr>
@@ -330,17 +425,17 @@ Lakehouse_Pipeline = {
 <br/>
 
 <details>
-<summary><b>🧰 Extended Toolkit (Click to expand)</b></summary>
+<summary><b>🧰 Extended Toolkit</b></summary>
 
 <br/>
 
 | Category | Technologies |
-|:---|:---|
-| **AI/ML** | TensorFlow, PyTorch, scikit-learn, LangChain, Transformers, spaCy, XGBoost |
-| **Data Engineering** | PySpark, Trino, Iceberg, Great Expectations, Airbyte, Celery |
-| **Databases** | PostgreSQL, pgvector, MongoDB, OpenSearch, Redis |
-| **DevOps** | Docker, Git, GitHub Actions, CI/CD, Linux |
-| **Cloud** | AWS (S3, Lambda, EC2, Glue), Databricks, Snowflake |
+|:---------|:-------------|
+| **AI/ML** | TensorFlow, PyTorch, scikit-learn, LangChain, Transformers, spaCy, XGBoost, MLflow |
+| **Data Engineering** | PySpark, Trino, Iceberg, Great Expectations, Airbyte, Celery, dbt |
+| **Databases** | PostgreSQL, pgvector, MongoDB, OpenSearch, Redis, Snowflake |
+| **DevOps** | Docker, Git, GitHub Actions, CI/CD, Linux, Terraform |
+| **Cloud** | AWS (S3, Lambda, EC2, Glue, Redshift), Databricks, Snowflake |
 
 </details>
 
@@ -352,34 +447,38 @@ Lakehouse_Pipeline = {
 <tr>
 <td width="50%" valign="top">
 
-### 1️⃣ Airbnb Data Pipeline
+### 1️⃣ Airbnb → S3 Pipeline
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/sumanthmalipeddi/airflow-postgres-to-s3-pipeline)
+> Production Airflow 3.x with custom operators
 
-**PostgreSQL → AWS S3 with Airflow 3.x**
+[![View Code](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sumanthmalipeddi/airflow-postgres-to-s3-pipeline)
 
-| Metric | Value |
-|:---|:---|
-| Records/day | 50,000+ |
-| Success Rate | 99.8% |
-| Runtime | 45s |
+```
+Performance
+├── Records/day:   50,000+
+├── Success rate:  99.8%
+├── Runtime:       45 seconds
+└── Custom:        PostgresToS3Operator
+```
 
-`Airflow` `PostgreSQL` `AWS S3` `Docker`
+`Airflow 3.x` `PostgreSQL` `AWS S3` `Docker`
 
 </td>
 <td width="50%" valign="top">
 
-### 2️⃣ Wikipedia Analytics Pipeline
+### 2️⃣ Wikipedia Analytics
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/sumanthmalipeddi/wiki-pipeline)
+> Hourly ETL with distributed Celery
 
-**Hourly ETL with Celery Processing**
+[![View Code](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sumanthmalipeddi/wiki-pipeline)
 
-| Metric | Value |
-|:---|:---|
-| Full ETL | 39s |
-| Operation | 24/7 |
-| Processing | Distributed |
+```
+Performance
+├── Full ETL:      39 seconds
+├── Availability:  24/7
+├── Processing:    Distributed
+└── Workers:       Celery + Redis
+```
 
 `Airflow` `PostgreSQL` `Celery` `Redis`
 
@@ -388,34 +487,38 @@ Lakehouse_Pipeline = {
 <tr>
 <td width="50%" valign="top">
 
-### 3️⃣ Spotify Telugu Songs ETL
+### 3️⃣ Spotify Telugu ETL
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Code-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://github.com/sumanthmalipeddi/spotify_trending_telugu)
+> Serverless daily music collection
 
-**Serverless Daily Collection**
+[![View Code](https://img.shields.io/badge/GitHub-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://github.com/sumanthmalipeddi/spotify_trending_telugu)
 
-| Metric | Value |
-|:---|:---|
-| Architecture | Serverless |
-| Schedule | Daily automated |
-| Storage | S3 |
+```
+Architecture
+├── Compute:       AWS Lambda
+├── Schedule:      Daily automated
+├── Storage:       S3
+└── Monitoring:    CloudWatch
+```
 
 `AWS Lambda` `Spotipy` `S3` `CloudWatch`
 
 </td>
 <td width="50%" valign="top">
 
-### 4️⃣ Resume Intelligence Analyzer
+### 4️⃣ Resume Analyzer
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Code-FF6B6B?style=flat-square&logo=github)](https://github.com/sumanthmalipeddi/llm_carrerasst)
+> AI-powered career intelligence
 
-**AI-Powered Resume Analysis**
+[![View Code](https://img.shields.io/badge/GitHub-FF6B6B?style=flat-square&logo=github&logoColor=white)](https://github.com/sumanthmalipeddi/llm_carrerasst)
 
-| Metric | Value |
-|:---|:---|
-| Skill Extraction | 94.2% |
-| Prediction | XGBoost |
-| Feature | ATS Scoring |
+```
+Capabilities
+├── Skill extraction:  94.2%
+├── Salary prediction: XGBoost
+├── ATS scoring:       Automated
+└── Interface:         Streamlit
+```
 
 `Streamlit` `spaCy` `XGBoost` `AWS EC2`
 
@@ -427,23 +530,32 @@ Lakehouse_Pipeline = {
 
 ## 🏆 Achievements
 
-<div align="center">
-
-| 🎓 Credential | 🏢 Issuer | 📅 Date |
-|:---|:---:|:---:|
-| **MS Data Science & AI** (CGPA: 9.50/10) | IISER Tirupati | Aug 2025 |
-| **Data Science, ML, DL, NLP Bootcamp** | Udemy | Apr 2025 |
-| **Mathematics for DS & GenAI** | Udemy | Oct 2024 |
-| **AWS Cloud Practitioner** | AWS | 2024 |
-
-<br/>
-
-### 🔥 Consistency Awards
-
-| 🦉 1100+ Days Duolingo | 🧠 593+ Days Brilliant | 💻 120+ Days LeetCode |
-|:---:|:---:|:---:|
-
-</div>
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                                                              │
+│   CREDENTIALS                                                                │
+│   ───────────────────────────────────────────────────────────────────────    │
+│                                                                              │
+│   🎓 MS Data Science & AI              IISER Tirupati         Aug 2025       │
+│      CGPA: 9.50/10 | Top 5%                                                  │
+│                                                                              │
+│   📜 Data Science, ML, DL, NLP         Udemy                  Apr 2025       │
+│      Complete Bootcamp                                                       │
+│                                                                              │
+│   📜 Mathematics for DS & GenAI        Udemy                  Oct 2024       │
+│                                                                              │
+│   ☁️  AWS Cloud Practitioner            Amazon Web Services    2024          │
+│                                                                              │
+│   ───────────────────────────────────────────────────────────────────────    │
+│                                                                              │
+│   CONSISTENCY AWARDS                                                         │
+│   ───────────────────────────────────────────────────────────────────────    │
+│                                                                              │
+│   🦉 1100+ Days Duolingo    │    🧠 593+ Days Brilliant    │    💻 120+ Days │
+│      German Streak          │       Math & CS              │       LeetCode  │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -457,20 +569,30 @@ Lakehouse_Pipeline = {
 
 Aug 2024 - Aug 2025
 
-| CGPA | Rank |
-|:---:|:---:|
-| **9.50/10** | **Top 5%** |
+<br/>
 
-<details>
-<summary><b>📚 Coursework & Projects</b></summary>
+| CGPA | Class Rank |
+|:----:|:----------:|
+| **9.50 / 10** | **Top 5%** |
 
 <br/>
 
-**Courses:** Math & Stats • DSA • Databases • ML/DL • NLP • Big Data • MLOps • Cloud
+<details>
+<summary><b>📚 Coursework & Research</b></summary>
 
-**Projects:** Financial Sentiment (87% F1) • Real-time ETL (60% faster) • Resume Analyzer (50GB+)
+<br/>
 
-**Research:** Advanced ML for Predictive Analytics
+**Core Courses:**
+Mathematics & Statistics · Data Structures & Algorithms · Database Systems · Machine Learning · Deep Learning · NLP & AI · Big Data Analytics · MLOps · Cloud Computing
+
+**Key Projects:**
+- Financial Sentiment Analysis (87% F1-score)
+- Real-time ETL Pipeline (60% time reduction)
+- Resume Intelligence Analyzer (50GB+ data)
+- A/B Testing Framework (45% improvement)
+
+**Research Focus:**
+Advanced Machine Learning for Predictive Analytics
 
 </details>
 
@@ -478,21 +600,11 @@ Aug 2024 - Aug 2025
 
 ### 🏛️ SASTRA University
 
-**B.Tech Civil Engineering** | 2014 - 2018 | CGPA: 8.542
+**Bachelor of Technology - Civil Engineering**
 
-</div>
+2014 - 2018 · CGPA: 8.542
 
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumanthmalipeddi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B9CFF&icon_color=3B9CFF&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumanthmalipeddi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B9CFF&text_color=C9D1D9&langs_count=6)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sumanthmalipeddi&theme=tokyonight&hide_border=true&background=0D1117&ring=3B9CFF&fire=3B9CFF&currStreakLabel=3B9CFF)
+*Foundation in mathematics, analytics, and structured problem-solving*
 
 </div>
 
@@ -502,26 +614,34 @@ Aug 2024 - Aug 2025
 
 <div align="center">
 
-### 💬 Open to Collaborations & Opportunities!
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                                                              │
+│                        💬 OPEN FOR OPPORTUNITIES                             │
+│                                                                              │
+│   ───────────────────────────────────────────────────────────────────────    │
+│                                                                              │
+│   💼 LinkedIn        linkedin.com/in/sumanth-malipeddi     2,300+ followers  │
+│   💻 GitHub          github.com/sumanthmalipeddi           31+ repositories  │
+│   📧 Email           sumanth.9666@gmail.com                Direct contact    │
+│   🐦 Twitter         x.com/Sumanth9666                     Tech updates      │
+│                                                                              │
+│   ───────────────────────────────────────────────────────────────────────    │
+│                                                                              │
+│   LOOKING FOR                                                                │
+│                                                                              │
+│   ✅ AI/ML Engineering roles at innovative product companies                 │
+│   ✅ Data Engineering positions with modern stack                            │
+│   ✅ Research collaborations in RAG and semantic search                      │
+│   ✅ Open-source contributions in AI/data engineering                        │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
 
 <br/>
 
-| 💼 LinkedIn | 💻 GitHub | 📧 Email | 🐦 Twitter |
-|:---:|:---:|:---:|:---:|
-| [Connect](https://linkedin.com/in/sumanth-malipeddi) | [Follow](https://github.com/sumanthmalipeddi) | [Email Me](mailto:sumanth.9666@gmail.com) | [Follow](https://x.com/Sumanth9666) |
-| 2,300+ Followers | 31+ Repos | Direct Contact | Tech Updates |
-
-<br/>
-
-### 🎯 Looking For
-
-✅ **AI/ML Engineering** at innovative product companies
-
-✅ **Data Engineering** with modern stack (Airflow, Kafka, dbt)
-
-✅ **Research collaborations** in RAG and semantic search
-
-✅ **Open-source contributions** in AI/data engineering
+<a href="https://linkedin.com/in/sumanth-malipeddi"><img src="https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>&nbsp;
+<a href="mailto:sumanth.9666@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/></a>
 
 </div>
 
@@ -529,18 +649,17 @@ Aug 2024 - Aug 2025
 
 <div align="center">
 
-### ⭐ Star my repos if you find them useful!
+### ⭐ If you find my work useful, consider starring the repos!
 
 <br/>
-
-![Made with](https://img.shields.io/badge/Made_with-❤️_and_☕-red?style=for-the-badge)
-![Powered by](https://img.shields.io/badge/Powered_by-Curiosity-blue?style=for-the-badge)
-
-<br/>
-
-**© 2025 Sumanth Malipeddi | Building AI systems one pipeline at a time 🚀**
 
 *"The best way to predict the future is to build it with data and AI."*
+
+<br/>
+
+**© 2025 Sumanth Malipeddi**
+
+Building AI systems one pipeline at a time 🚀
 
 <sub>Last updated: February 2026</sub>
 
