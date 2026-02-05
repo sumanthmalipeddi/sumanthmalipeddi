@@ -6,28 +6,103 @@
 <!-- Animated Typing -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B9CFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Associate+Data+Science+Engineer+%40+GetMySaas;Python+•+SQL+•+Kafka+•+Databricks+•+dbt+•+Snowflake;MS+Data+Science+%40+IISER+Tirupati+(9.5+CGPA)" alt="Typing SVG" /></a>
 
-<!-- Social Badges -->
+<!-- Social Badges - LARGER SIZE -->
 <p align="center">
   <a href="https://linkedin.com/in/sumanth-malipeddi">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn"/>
   </a>
   <a href="mailto:sumanth.9666@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email"/>
   </a>
   <a href="https://x.com/Sumanth9666">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" height="35" alt="Twitter"/>
   </a>
   <a href="https://github.com/sumanthmalipeddi">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub"/>
   </a>
 </p>
 
 <!-- Profile Stats -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumanthmalipeddi&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/sumanthmalipeddi?label=Followers&style=for-the-badge&color=blue" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/sumanthmalipeddi?label=Stars&style=for-the-badge&color=yellow" alt="stars"/>
+  <img src="https://komarev.com/ghpvc/?username=sumanthmalipeddi&label=Profile%20Views&color=0e75b6&style=for-the-badge" height="30" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/sumanthmalipeddi?label=Followers&style=for-the-badge&color=blue" height="30" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/sumanthmalipeddi?label=Stars&style=for-the-badge&color=yellow" height="30" alt="stars"/>
 </p>
+
+</div>
+
+---
+
+## 📑 Table of Contents
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="20%">
+<a href="#-open-to-opportunities">
+<img src="https://img.icons8.com/fluency/96/000000/briefcase.png" width="50"/><br/>
+<b>🎯 Opportunities</b>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="#-about-me">
+<img src="https://img.icons8.com/fluency/96/000000/user-male-circle.png" width="50"/><br/>
+<b>👨‍💻 About Me</b>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="#-learning-journey">
+<img src="https://img.icons8.com/fluency/96/000000/book.png" width="50"/><br/>
+<b>📚 Learning</b>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="#-professional-experience">
+<img src="https://img.icons8.com/fluency/96/000000/work.png" width="50"/><br/>
+<b>💼 Experience</b>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="#️-tech-stack">
+<img src="https://img.icons8.com/fluency/96/000000/code.png" width="50"/><br/>
+<b>🛠️ Tech Stack</b>
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="20%">
+<a href="#-featured-projects">
+<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="50"/><br/>
+<b>🚀 Projects</b>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="#-achievements--certifications">
+<img src="https://img.icons8.com/fluency/96/000000/trophy.png" width="50"/><br/>
+<b>🏆 Achievements</b>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="#-education">
+<img src="https://img.icons8.com/fluency/96/000000/graduation-cap.png" width="50"/><br/>
+<b>🎓 Education</b>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="#-github-stats">
+<img src="https://img.icons8.com/fluency/96/000000/graph.png" width="50"/><br/>
+<b>📊 GitHub Stats</b>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="#-lets-connect">
+<img src="https://img.icons8.com/fluency/96/000000/chat.png" width="50"/><br/>
+<b>📫 Connect</b>
+</a>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -37,7 +112,7 @@
 
 <div align="center">
 
-### Actively seeking roles in AI Engineering, Data Engineering, and ML Engineering
+### Actively seeking AI Engineering, Data Engineering, and ML Engineering roles
 
 <table>
 <tr>
@@ -104,7 +179,7 @@ experience: 4+ years in data analytics & AI
 core_expertise:
   primary: AI Engineering & RAG Systems
   domains:
-    - Data Engineering (ETL, Streaming, Lakehouse)
+    - Data Engineering (Airflow, Kafka, dbt, Iceberg)
     - Machine Learning (NLP, Transformers, MLOps)
     - Cloud Platforms (AWS, Databricks, Snowflake)
     - Databases (PostgreSQL, pgvector, Redis)
@@ -139,20 +214,20 @@ philosophy: |
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/Duolingo-1100+_Days-58CC02?style=for-the-badge&logo=duolingo&logoColor=white" alt="Duolingo"/><br/>
+<img src="https://img.shields.io/badge/Duolingo-1100+_Days-58CC02?style=for-the-badge&logo=duolingo&logoColor=white" height="32" alt="Duolingo"/><br/>
 <b>Language Learning</b>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/Brilliant-593+_Days-00D4AA?style=for-the-badge&logo=brilliant&logoColor=white" alt="Brilliant"/><br/>
-<b>Math & Computer Science</b>
+<img src="https://img.shields.io/badge/Brilliant-593+_Days-00D4AA?style=for-the-badge&logo=brilliant&logoColor=white" height="32" alt="Brilliant"/><br/>
+<b>Math & CS</b>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/DSA-120+_Days-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA"/><br/>
-<b>LeetCode Daily Practice</b>
+<img src="https://img.shields.io/badge/DSA-120+_Days-orange?style=for-the-badge&logo=leetcode&logoColor=white" height="32" alt="DSA"/><br/>
+<b>LeetCode Daily</b>
 </td>
 </tr>
 </table>
@@ -186,19 +261,19 @@ me = {
 <td width="33%" align="center">
 <h4>📚 Fundamentals of Data Engineering</h4>
 <i>Joe Reis & Matt Housley</i><br/><br/>
-<img src="https://img.shields.io/badge/Status-✅_Completed-brightgreen?style=for-the-badge"/><br/><br/>
+<img src="https://img.shields.io/badge/Status-✅_Completed-brightgreen?style=for-the-badge" height="30"/><br/><br/>
 Finished all chapters including<br/>Security & Future of DE
 </td>
 <td width="33%" align="center">
 <h4>📚 Hands-On Machine Learning</h4>
 <i>Aurélien Géron</i><br/><br/>
-<img src="https://img.shields.io/badge/Status-📖_In_Progress-blue?style=for-the-badge"/><br/><br/>
+<img src="https://img.shields.io/badge/Status-📖_In_Progress-blue?style=for-the-badge" height="30"/><br/><br/>
 Deep diving into ensemble methods<br/>and neural networks
 </td>
 <td width="33%" align="center">
 <h4>📚 Designing Data-Intensive Apps</h4>
 <i>Martin Kleppmann</i><br/><br/>
-<img src="https://img.shields.io/badge/Status-🆕_Just_Started-orange?style=for-the-badge"/><br/><br/>
+<img src="https://img.shields.io/badge/Status-🆕_Just_Started-orange?style=for-the-badge" height="30"/><br/><br/>
 Starting with data models<br/>and query languages
 </td>
 </tr>
@@ -226,18 +301,11 @@ gantt
 
 ### 📝 Recent Learning Highlights
 
-<details>
-<summary><b>🗓️ February 2026 Progress</b></summary>
-
-<br/>
-
-**Day 136** - Built production Airflow pipeline with custom PostgresToS3Operator  
-**Day 135** - Implemented Postgres → S3 → Docker Pandas ETL workflow  
-**Day 134** - Solved maximum subarray with Kadane's Algorithm (O(n) DP)  
-**Day 131** - Dutch National Flag algorithm: 3-way partitioning in O(n)  
-**Day 130** - Airflow branching with BranchPythonOperator & trigger rules  
-
-</details>
+**Day 136** • Built custom PostgresToS3Operator with Airflow templating  
+**Day 135** • Implemented Postgres → S3 → Docker Pandas ETL workflow  
+**Day 134** • Solved maximum subarray with Kadane's Algorithm (O(n))  
+**Day 131** • Dutch National Flag: 3-way partitioning in O(n)  
+**Day 130** • Airflow branching with BranchPythonOperator  
 
 </div>
 
@@ -248,119 +316,214 @@ gantt
 ### 🏢 **Associate Data Science Engineer** @ [GetMySaas](https://getmysaas.com)
 *Oct 2025 - Present | Remote*
 
-#### 🤖 AI Engineering & RAG Systems
-- Building **hybrid search infrastructure** combining OpenSearch (lexical) + pgvector (semantic)
-- Developing **RAG pipelines** connecting structured data to LLMs with 87% answer accuracy
-- Implementing **document intelligence** workflows (Apache Tika, Tesseract OCR, Google Document AI)
+<div align="center">
 
-#### 🔄 Data Engineering
-- Architecting **15+ production Airflow DAGs** for social media APIs and web scraping
-- Built **modern lakehouse**: Airbyte → S3 (Bronze) → Iceberg (Silver/Gold) → dbt → Trino
-- Developed **Kafka streaming pipelines** with Redis for real-time data processing
+```diff
+# The Story: Fixing Broken Pipelines & Building AI Systems
 
-#### ✅ Impact
-- ✅ Automated 100% of manual data collection (40+ hours/week saved)
-- ✅ Processing 10,000+ documents daily with 95% accuracy
-- ✅ 70% query time reduction with lakehouse architecture
-- ✅ 85% reduction in data incidents with quality frameworks
+! Problem: Manual data collection taking 40+ hours/week
+! Problem: CSV NULL semantics causing pipeline failures
+! Problem: No semantic search for unstructured documents
+
++ Solution: 15+ production Airflow DAGs automating everything
++ Solution: Custom operators handling CSV edge cases correctly
++ Solution: Hybrid search (pgvector + OpenSearch) for RAG systems
+
+@@ Impact: 100% automation, 85% fewer incidents, 87% answer accuracy @@
+```
+
+</div>
+
+#### 🚀 Key Contributions
+
+<table>
+<tr>
+<td width="50%">
+
+**🤖 AI Engineering**
+```python
+# RAG System Architecture
+components = {
+    'semantic': 'pgvector embeddings',
+    'lexical': 'OpenSearch BM25',
+    'hybrid': 'custom ranking algorithm',
+    'accuracy': '87% answer quality'
+}
+```
+- Built RAG pipelines connecting data to LLMs
+- Document intelligence (Tika, Tesseract OCR)
+- 10,000+ docs processed daily
+
+</td>
+<td width="50%">
+
+**🔧 Data Engineering**
+```python
+# Lakehouse Pipeline
+flow = [
+    'Airbyte → S3 (Bronze)',
+    'Iceberg → dbt (Silver/Gold)',
+    'Trino → Query Layer'
+]
+impact = {
+    'query_speedup': '70% faster',
+    'analysts_enabled': '50+ users'
+}
+```
+- 15+ Airflow DAGs orchestrating data
+- Kafka streaming with Redis
+- Great Expectations for quality
+
+</td>
+</tr>
+</table>
+
+**Tech Stack:** `Python` `SQL` `Apache Airflow` `Apache Kafka` `dbt` `Apache Iceberg` `PostgreSQL` `pgvector` `OpenSearch` `AWS` `Databricks` `Docker`
 
 ---
 
 ### 🎓 **Graduate Research Assistant** @ IISER Tirupati
 *Aug 2024 - Aug 2025*
 
-- Built **transformer-based NLP models**: 87% F1-score on financial sentiment analysis
-- Developed **ML applications** processing 50GB+ datasets with 99.7% data integrity
-- Implemented **real-time ETL pipelines**: 60% processing time reduction
-- Applied **A/B testing frameworks**: 45% model performance improvement
+- **Transformer NLP Model**: 87% F1-score on financial sentiment analysis
+- **Real-time ETL**: Kafka + Airflow pipeline with 60% time reduction
+- **ML Applications**: 50GB+ datasets with 99.7% data integrity
+- **A/B Testing**: 45% model performance improvement
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🎯 Primary Technologies
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" height="28"/>
+### 🎯 Primary Technologies
+
+<table>
+<tr>
+<td align="center" width="12.5%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+<br><b>Python</b>
+</td>
+<td align="center" width="12.5%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="SQL" />
+<br><b>SQL</b>
+</td>
+<td align="center" width="12.5%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="48" height="48" alt="Kafka" />
+<br><b>Kafka</b>
+</td>
+<td align="center" width="12.5%">
+<img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="48" height="48" alt="Databricks" />
+<br><b>Databricks</b>
+</td>
+<td align="center" width="12.5%">
+<img src="https://seeklogo.com/images/D/dbt-logo-E4B0ED72A2-seeklogo.com.png" width="48" height="48" alt="dbt" />
+<br><b>dbt</b>
+</td>
+<td align="center" width="12.5%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="48" height="48" alt="PySpark" />
+<br><b>PySpark</b>
+</td>
+<td align="center" width="12.5%">
+<img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="48" height="48" alt="Snowflake" />
+<br><b>Snowflake</b>
+</td>
+<td align="center" width="12.5%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" />
+<br><b>AWS</b>
+</td>
+</tr>
+</table>
+
+### 🔧 Complete Technology Arsenal
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+#### 🤖 AI Engineering
+<img src="https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/pgvector-336791?style=flat&logo=postgresql&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat&logo=opensearch&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/RAG_Systems-FF6B6B?style=flat" height="24"/>
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black" height="24"/>
+
+</td>
+<td align="center" width="25%">
+
+#### 🔄 Data Engineering
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Iceberg-1F8FD6?style=flat" height="24"/>
+<img src="https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Trino-DD00A1?style=flat" height="24"/>
+
+</td>
+<td align="center" width="25%">
+
+#### 🤖 Machine Learning
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat" height="24"/>
+
+</td>
+<td align="center" width="25%">
+
+#### ☁️ Cloud & Databases
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="24"/>
+
+</td>
+</tr>
+</table>
+
+### 📊 Skill Hierarchy
+
+<table>
+<tr>
+<td align="center" width="25%">
+<h3>🎯 AI Engineering</h3>
+<b>(Primary Focus)</b><br/><br/>
+✦ RAG Systems<br/>
+✦ Semantic Search<br/>
+✦ Vector Databases<br/>
+✦ LLM Integration<br/>
+✦ Prompt Engineering
+</td>
+<td align="center" width="25%">
+<h3>🔧 Data Engineering</h3>
+<b>(Core Expertise)</b><br/><br/>
+✦ Apache Airflow<br/>
+✦ Apache Kafka<br/>
+✦ dbt & Iceberg<br/>
+✦ ETL Pipelines<br/>
+✦ Data Quality
+</td>
+<td align="center" width="25%">
+<h3>🤖 Machine Learning</h3>
+<b>(Strong Skills)</b><br/><br/>
+✦ NLP & Transformers<br/>
+✦ MLOps & Deployment<br/>
+✦ Feature Engineering<br/>
+✦ Model Monitoring<br/>
+✦ A/B Testing
+</td>
+<td align="center" width="25%">
+<h3>☁️ Cloud & Databases</h3>
+<b>(Advanced)</b><br/><br/>
+✦ AWS & Databricks<br/>
+✦ Snowflake<br/>
+✦ PostgreSQL<br/>
+✦ Redis & OpenSearch<br/>
+✦ Docker
+</td>
+</tr>
+</table>
 
 </div>
-
-### 📊 Skills by Domain
-
-```mermaid
-%%{init: {'theme':'dark'}}%%
-graph TB
-    A[AI Engineering - Core Focus] --> B[RAG Systems]
-    A --> C[Semantic Search - pgvector]
-    A --> D[Vector Databases]
-    A --> E[LLM Integration]
-
-    F[Data Engineering] --> G[Apache Airflow]
-    F --> H[Apache Kafka]
-    F --> I[dbt & Iceberg]
-    F --> J[ETL Pipelines]
-
-    K[Machine Learning] --> L[NLP & Transformers]
-    K --> M[MLOps & Deployment]
-    K --> N[Feature Engineering]
-
-    O[Cloud & Databases] --> P[AWS & Databricks]
-    O --> Q[PostgreSQL & Snowflake]
-    O --> R[Redis & OpenSearch]
-
-    style A fill:#FF6B6B,stroke:#fff,stroke-width:3px
-    style F fill:#4ECDC4
-    style K fill:#FFD93D
-    style O fill:#95E1D3
-```
-
-<details>
-<summary><b>🔧 Complete Technology Stack</b></summary>
-
-<br/>
-
-**AI Engineering & LLMs**
-- LangChain, LlamaIndex • pgvector • OpenSearch • Claude API • OpenAI API • Prompt Engineering
-
-**Data Orchestration**
-- Apache Airflow 3.x (Expert) • Dagster • Custom Operators • DAG Design
-
-**Streaming & Messaging**
-- Apache Kafka • Redis Streams • Event-driven Architecture
-
-**Data Transformation**
-- dbt • PySpark • Pandas • Polars • SQL
-
-**Cloud Platforms**
-- AWS (S3, EC2, Lambda, SageMaker) • Databricks • Snowflake
-
-**Storage & Lakehouse**
-- Apache Iceberg • Delta Lake • PostgreSQL • MongoDB
-
-**Data Quality**
-- Great Expectations • OpenLineage • OpenMetadata
-
-**Web Scraping**
-- Playwright • Scrapy • BeautifulSoup • REST APIs
-
-**Document Processing**
-- Apache Tika • Tesseract OCR • Google Document AI
-
-**Machine Learning**
-- TensorFlow • PyTorch • scikit-learn • Hugging Face Transformers
-
-**MLOps**
-- MLflow • DVC • Docker • Kubernetes
-
-</details>
 
 ---
 
@@ -370,10 +533,10 @@ graph TB
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sumanthmalipeddi/airflow-postgres-to-s3-pipeline)
-![Stars](https://img.shields.io/github/stars/sumanthmalipeddi/airflow-postgres-to-s3-pipeline?style=for-the-badge&color=yellow)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32")](https://github.com/sumanthmalipeddi/airflow-postgres-to-s3-pipeline)
+![Stars](https://img.shields.io/github/stars/sumanthmalipeddi/airflow-postgres-to-s3-pipeline?style=for-the-badge&color=yellow" height="32")
 
-**Production-grade Apache Airflow 3.x pipeline with custom operators**
+**Production Apache Airflow 3.x pipeline with custom operators**
 
 </div>
 
@@ -390,10 +553,9 @@ graph TB
 </tr>
 </table>
 
-**🎯 Outcome:**  
-✅ 50,000+ records processed daily | ✅ 99.8% success rate | ✅ 45-second runtime | ✅ Custom PostgresToS3Operator
+**🎯 Outcome:** 50,000+ records/day | 99.8% success rate | 45s runtime | Custom PostgresToS3Operator
 
-**Tech:** `Apache Airflow 3.x` `PostgreSQL` `AWS S3` `Python` `Docker`
+**💻 Tech:** `Apache Airflow 3.x` `PostgreSQL` `AWS S3` `Python` `Docker`
 
 ---
 
@@ -401,10 +563,9 @@ graph TB
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sumanthmalipeddi/wiki-pipeline)
-![Stars](https://img.shields.io/github/stars/sumanthmalipeddi/wiki-pipeline?style=for-the-badge&color=yellow)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32")](https://github.com/sumanthmalipeddi/wiki-pipeline)
 
-**Hourly ETL pipeline with distributed Celery processing**
+**Hourly ETL with distributed Celery processing**
 
 </div>
 
@@ -412,7 +573,7 @@ graph TB
 <tr>
 <td width="50%" align="center">
 <img src="https://github.com/sumanthmalipeddi/wiki-pipeline/blob/main/images/graph_success.png?raw=true" width="100%"/><br/>
-<b>DAG Graph View</b>
+<b>DAG Graph</b>
 </td>
 <td width="50%" align="center">
 <img src="https://github.com/sumanthmalipeddi/wiki-pipeline/blob/main/images/workflow_success.png?raw=true" width="100%"/><br/>
@@ -421,76 +582,42 @@ graph TB
 </tr>
 </table>
 
-**🎯 Outcome:**  
-✅ 39-second full ETL cycle | ✅ 24/7 automated operation | ✅ Distributed processing with Celery
+**🎯 Outcome:** 39s full ETL | 24/7 operation | Distributed Celery processing
 
-**Tech:** `Apache Airflow 3.1.5` `PostgreSQL 16` `Celery` `Redis` `Docker Compose`
-
----
-
-### 3️⃣ **Prompt Engineering Study Repository**
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sumanthmalipeddi/promptengineering_study)
-
-**Systematic exploration of prompt engineering for RAG systems**
-
-</div>
-
-**🎯 Outcome:**  
-✅ +23% accuracy with few-shot learning | ✅ +41% correctness with Chain-of-Thought | ✅ -67% parsing errors with structured output
-
-**Tech:** `Python` `LangChain` `OpenAI API` `Claude API` `Jupyter`
+**💻 Tech:** `Airflow 3.1.5` `PostgreSQL 16` `Celery` `Redis` `Docker Compose`
 
 ---
 
-### 4️⃣ **Spotify Trending Telugu Songs ETL**
+### 3️⃣ **Spotify Trending Telugu Songs ETL**
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-1DB954?style=for-the-badge&logo=spotify)](https://github.com/sumanthmalipeddi/spotify_trending_telugu)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-1DB954?style=for-the-badge&logo=spotify&logoColor=white" height="32")](https://github.com/sumanthmalipeddi/spotify_trending_telugu)
 
 <img src="https://github.com/sumanthmalipeddi/spotify_trending_telugu/blob/main/Architecture.png?raw=true" width="600"/><br/>
 <b>Serverless Architecture</b>
 
 </div>
 
-**🎯 Outcome:**  
-✅ Serverless ETL with AWS Lambda | ✅ Automated daily music trend collection
+**🎯 Outcome:** Serverless ETL | Automated daily collection
 
-**Tech:** `AWS Lambda` `Spotipy API` `AWS S3` `CloudWatch`
-
----
-
-### 5️⃣ **Skills & Resume Intelligence Analyzer**
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-FF6B6B?style=for-the-badge&logo=github)](https://github.com/sumanthmalipeddi/llm_carrerasst)
-
-**AI-powered resume analysis with NLP and salary prediction**
-
-</div>
-
-**🎯 Outcome:**  
-✅ 94.2% skill extraction accuracy | ✅ XGBoost salary prediction | ✅ ATS alignment scoring
-
-**Tech:** `Streamlit` `spaCy` `XGBoost` `AWS EC2`
+**💻 Tech:** `AWS Lambda` `Spotipy API` `S3` `CloudWatch`
 
 ---
 
-### 6️⃣ **Housing Data Analytics & Engineering**
+### 4️⃣ **Skills & Resume Intelligence Analyzer**
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-4ECDC4?style=for-the-badge&logo=github)](https://github.com/sumanthmalipeddi/Housing_Data-Analytics-Engineering)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-FF6B6B?style=for-the-badge&logo=github&logoColor=white" height="32")](https://github.com/sumanthmalipeddi/llm_carrerasst)
 
-**Modern data engineering techniques for real estate analysis**
+**AI-powered resume analysis with NLP**
 
 </div>
 
-**Tech:** `Python` `Jupyter` `Pandas` `SQL` `Plotly`
+**🎯 Outcome:** 94.2% skill extraction | XGBoost salary prediction | ATS scoring
+
+**💻 Tech:** `Streamlit` `spaCy` `XGBoost` `AWS EC2`
 
 ---
 
@@ -506,7 +633,7 @@ graph TB
 <th>🔗 Link</th>
 </tr>
 <tr>
-<td><b>MS Data Science & AI</b> (9.50/10)</td>
+<td><b>MS Data Science & AI</b><br/>(CGPA: 9.50/10)</td>
 <td>IISER Tirupati</td>
 <td>Aug 2025</td>
 <td>✅ Completed</td>
@@ -524,12 +651,20 @@ graph TB
 <td><a href="https://www.udemy.com/certificate/UC-385046d4-6cfd-475a-a4f3-557f1bd091f3/">View</a></td>
 </tr>
 <tr>
-<td><b>AWS Cloud Practitioner Essentials</b></td>
+<td><b>AWS Cloud Practitioner</b></td>
 <td>AWS</td>
 <td>2024</td>
 <td>✅ Completed</td>
 </tr>
 </table>
+
+<br/>
+
+### 🔥 Consistency Streaks
+
+<img src="https://img.shields.io/badge/Duolingo-1100+_Days-58CC02?style=for-the-badge&logo=duolingo&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/Brilliant-593+_Days-00D4AA?style=for-the-badge&logo=brilliant&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/DSA_Practice-120+_Days-orange?style=for-the-badge&logo=leetcode&logoColor=white" height="35"/>
 
 </div>
 
@@ -537,62 +672,73 @@ graph TB
 
 ## 🎓 Education
 
-### 🎓 **Indian Institute of Science Education and Research (IISER) Tirupati**
+<div align="center">
 
-<table>
-<tr>
-<td width="70%">
+### 🏛️ Indian Institute of Science Education and Research (IISER) Tirupati
 
 **Master of Science - Data Science & Artificial Intelligence**  
 *Aug 2024 - Aug 2025*
 
-**CGPA: 9.50/10** 🏆 (Top 5%)
+<img src="https://img.shields.io/badge/CGPA-9.50%2F10-brightgreen?style=for-the-badge&logo=google-scholar&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Rank-Top%205%25-blue?style=for-the-badge" height="40"/>
 
-#### 📚 Core Coursework
-- **Mathematics & Statistics**: Linear Algebra, Probability, Statistical Inference
-- **Programming & Algorithms**: Data Structures, Algorithm Design, Complexity Analysis
-- **Database Systems**: RDBMS, NoSQL, Query Optimization, Distributed Databases
-- **Machine Learning**: Supervised/Unsupervised Learning, Deep Learning, Neural Networks
-- **NLP & AI**: Transformers, LLMs, Text Mining, Sentiment Analysis
-- **Big Data**: Spark, Hadoop, ETL Pipelines, Data Warehousing
-- **MLOps**: Model Deployment, CI/CD, Monitoring, A/B Testing
-- **Cloud Computing**: AWS Services, Distributed Systems, Serverless Architecture
+</div>
 
-#### 🔬 Major Projects
-- **Financial Sentiment Analysis**: Transformer-based NLP achieving 87% F1-score
-- **Real-time ETL Pipeline**: Kafka + Airflow system with 60% time reduction
-- **Skills & Resume Analyzer**: ML app processing 50GB+ datasets
-- **A/B Testing Framework**: Statistical experimentation platform (45% improvement)
+<details>
+<summary><b>📚 Click to view detailed coursework and projects</b></summary>
 
-#### 🎯 Research
-- **Thesis**: Advanced Machine Learning for Predictive Analytics
-- **Focus**: Statistical Modeling, NLP Systems, Multi-Agent AI Architectures
+<br/>
 
+**Core Courses:** Mathematics & Statistics • Data Structures & Algorithms • Database Systems • Machine Learning & Deep Learning • NLP & AI • Big Data Analytics • MLOps • Cloud Computing
+
+**Major Projects:**
+- Financial Sentiment Analysis (87% F1-score)
+- Real-time ETL Pipeline (60% faster)
+- Skills & Resume Analyzer (50GB+ data)
+- A/B Testing Framework (45% improvement)
+
+**Research:** Advanced ML for Predictive Analytics
+
+</details>
+
+---
+
+<div align="center">
+
+### 🏛️ SASTRA University
+
+**Bachelor of Technology - Civil Engineering** | *2014 - 2018* | **CGPA: 8.542**
+
+Foundation in mathematics, analytics, and data-driven problem solving
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sumanthmalipeddi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B9CFF&icon_color=3B9CFF&text_color=C9D1D9" width="400" alt="GitHub Stats"/>
 </td>
-<td width="30%" align="center">
-
-<img src="https://img.shields.io/badge/CGPA-9.50%2F10-brightgreen?style=for-the-badge&logo=google-scholar&logoColor=white"/><br/><br/>
-
-<img src="https://img.shields.io/badge/Rank-Top%205%25-blue?style=for-the-badge&logo=graduate&logoColor=white"/><br/><br/>
-
-<img src="https://img.shields.io/badge/Focus-AI%20%26%20Data-purple?style=for-the-badge&logo=robot&logoColor=white"/><br/><br/>
-
-<img src="https://img.shields.io/badge/Research-ML%20%26%20NLP-red?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanthmalipeddi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B9CFF&text_color=C9D1D9&langs_count=6" width="400" alt="Top Languages"/>
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-### 🎓 **SASTRA University**
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sumanthmalipeddi&theme=tokyonight&hide_border=true&background=0D1117&ring=3B9CFF&fire=3B9CFF&currStreakLabel=3B9CFF" width="500" alt="GitHub Streak"/>
 
-**Bachelor of Technology - Civil Engineering**  
-*2014 - 2018 | CGPA: 8.542*
+<br/><br/>
 
-- Strong foundation in **mathematics, statistics, and analytical problem-solving**
-- Applied **data-driven decision making** in engineering projects
-- Transitioned to Data Science through continuous learning and upskilling
+<img src="https://github-profile-trophy.vercel.app/?username=sumanthmalipeddi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+
+</div>
 
 ---
 
@@ -602,7 +748,7 @@ graph TB
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=Get%20In%20Touch&fontSize=30&fontColor=fff&animation=twinkling" width="100%"/>
 
-### 💬 I'm Open to Collaborations, Mentorship, and New Opportunities!
+### 💬 Open to Collaborations, Mentorship, and Opportunities!
 
 </div>
 
@@ -611,8 +757,8 @@ graph TB
 <td align="center" width="25%">
 <h3>💼 LinkedIn</h3>
 <a href="https://linkedin.com/in/sumanth-malipeddi">
-<img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><br/><br/>
-<b>2,300+ Followers</b><br/>
+<img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a><br/><br/>
+<b>2,300+ Followers</b><br/><br/>
 Professional networking<br/>
 Job opportunities<br/>
 Technical discussions
@@ -620,8 +766,8 @@ Technical discussions
 <td align="center" width="25%">
 <h3>💻 GitHub</h3>
 <a href="https://github.com/sumanthmalipeddi">
-<img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a><br/><br/>
-<b>31+ Repositories</b><br/>
+<img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/></a><br/><br/>
+<b>31+ Repositories</b><br/><br/>
 Open source projects<br/>
 Code collaborations<br/>
 Technical reviews
@@ -629,8 +775,8 @@ Technical reviews
 <td align="center" width="25%">
 <h3>📧 Email</h3>
 <a href="mailto:sumanth.9666@gmail.com">
-<img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><br/><br/>
-<b>Direct Contact</b><br/>
+<img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/></a><br/><br/>
+<b>Direct Contact</b><br/><br/>
 Project collaborations<br/>
 Mentorship requests<br/>
 Consulting inquiries
@@ -638,8 +784,8 @@ Consulting inquiries
 <td align="center" width="25%">
 <h3>🐦 Twitter</h3>
 <a href="https://x.com/Sumanth9666">
-<img src="https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a><br/><br/>
-<b>Tech Updates</b><br/>
+<img src="https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white" height="35"/></a><br/><br/>
+<b>Tech Updates</b><br/><br/>
 Learning journey<br/>
 Industry insights<br/>
 Quick discussions
@@ -653,22 +799,21 @@ Quick discussions
 
 ### 📊 Profile Highlights
 
-<img src="https://img.shields.io/badge/Experience-4%2B%20Years-blue?style=for-the-badge" alt="Experience"/>
-<img src="https://img.shields.io/badge/Projects-31%2B%20Repos-green?style=for-the-badge" alt="Projects"/>
-<img src="https://img.shields.io/badge/CGPA-9.50%2F10-brightgreen?style=for-the-badge" alt="CGPA"/>
-<img src="https://img.shields.io/badge/Duolingo-1100%2B%20Days-58CC02?style=for-the-badge" alt="Duolingo"/>
-<img src="https://img.shields.io/badge/Brilliant-593%2B%20Days-00D4AA?style=for-the-badge" alt="Brilliant"/>
-<img src="https://img.shields.io/badge/DSA-120%2B%20Days-orange?style=for-the-badge" alt="DSA"/>
+<img src="https://img.shields.io/badge/Experience-4%2B%20Years-blue?style=for-the-badge" height="30"/>
+<img src="https://img.shields.io/badge/Projects-31%2B%20Repos-green?style=for-the-badge" height="30"/>
+<img src="https://img.shields.io/badge/CGPA-9.50%2F10-brightgreen?style=for-the-badge" height="30"/>
+<img src="https://img.shields.io/badge/Duolingo-1100%2B%20Days-58CC02?style=for-the-badge" height="30"/>
+<img src="https://img.shields.io/badge/Brilliant-593%2B%20Days-00D4AA?style=for-the-badge" height="30"/>
 
 ---
 
-### 🤝 What I'm Looking For
+### 🎯 What I'm Looking For
 
-✅ **AI/ML Engineering roles** at product companies building cutting-edge systems  
-✅ **Data Engineering positions** with modern tech stack (Airflow, Kafka, dbt, Iceberg)  
-✅ **Research collaborations** in RAG systems and semantic search  
-✅ **Mentorship opportunities** to guide aspiring data professionals  
-✅ **Open-source contributions** in AI and data engineering projects  
+✅ **AI/ML Engineering roles** at innovative product companies  
+✅ **Data Engineering positions** with modern stack (Airflow, Kafka, dbt)  
+✅ **Research collaborations** in RAG and semantic search  
+✅ **Mentorship opportunities** for aspiring data professionals  
+✅ **Open-source contributions** in AI/data engineering  
 
 </div>
 
@@ -678,18 +823,16 @@ Quick discussions
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
-### ⭐ If you find my work valuable, consider starring my repositories!
+### ⭐ If you find my work valuable, star my repositories!
 
-<p>
-<img src="https://img.shields.io/badge/Made%20with-❤️%20and%20☕-red?style=for-the-badge" alt="Made with love"/>
-<img src="https://img.shields.io/badge/Powered%20by-Curiosity%20%26%20Code-blue?style=for-the-badge" alt="Powered by curiosity"/>
-<img src="https://img.shields.io/badge/Built%20for-The%20Future-purple?style=for-the-badge" alt="Built for future"/>
-</p>
+<img src="https://img.shields.io/badge/Made%20with-❤️%20and%20☕-red?style=for-the-badge" height="30"/>
+<img src="https://img.shields.io/badge/Powered%20by-Curiosity-blue?style=for-the-badge" height="30"/>
+<img src="https://img.shields.io/badge/Built%20for-The%20Future-purple?style=for-the-badge" height="30"/>
 
 ### © 2026 Sumanth Malipeddi | Building AI systems one pipeline at a time 🚀
 
 **"The best way to predict the future is to build it with data and AI."**
 
-<sub>Last updated: February 2026 | Crafted with precision and passion</sub>
+<sub>Last updated: February 2026</sub>
 
 </div>
