@@ -52,7 +52,7 @@ Kafka pipelines replacing 24-48 hour stale batch jobs with minutes-fresh data.
 | [🎵 Spotify Telugu ETL](https://github.com/sumanthmalipeddi/spotify_trending_telugu) | Serverless daily music data collection | Lambda · S3 · CloudWatch |
 | [✈️ Airbnb → S3 Pipeline](https://github.com/sumanthmalipeddi/airflow-postgres-to-s3-pipeline) | Custom Airflow operators, Docker-compose | Airflow 3.x · PostgreSQL · S3 |
 | [📰 Wikipedia Analytics](https://github.com/sumanthmalipeddi/wiki-pipeline) | Hourly ETL with distributed workers | Airflow · Celery · Redis |
-| [📄 Resume Analyzer](https://github.com/sumanthmalipeddi/llm_carrerasst) — NER skill extraction + salary prediction | spaCy · XGBoost · Streamlit |
+| [📄 Resume Analyzer](https://github.com/sumanthmalipeddi/llm_carrerasst) | NER skill extraction + salary prediction | spaCy · XGBoost · Streamlit |
 
 ---
 
