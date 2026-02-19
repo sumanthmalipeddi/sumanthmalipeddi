@@ -1,6 +1,6 @@
 # Hi, I'm Sumanth 👋
 
-📍 Tirupati, India → Targeting Remote &nbsp;|&nbsp; 🎓 Civil → AI/DS (9.5 CGPA) &nbsp;|&nbsp; ⚡ Sole Data Engineer @ GetMySaas
+📍 Tirupati, India → Targeting Remote &nbsp;|&nbsp; 🎓 Civil → AI/DS (9.5 CGPA) &nbsp;|&nbsp; ⚡ Sole Data Science Engineer @ GetMySaas
 
 <br/>
 
