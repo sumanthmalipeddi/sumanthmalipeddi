@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trino-DD00A1?style=for-the-badge&logo=trino&logoColor=white"/>
 </p>
 
 ---
@@ -35,7 +35,7 @@ Transitioned from 6 years of civil engineering into data. Now the **sole data en
 LLM-powered (Z.AI API) extraction of 21 structured attributes — firmographics, tech stack, funding signals — across priority tiers. PostgreSQL schemas designed before a single line was written.
 
 **Data Lakehouse Architecture**
-Bronze → Silver → Gold medallion pipeline using Apache Iceberg + Databricks. Airflow-orchestrated with Great Expectations quality gates baked in.
+Bronze → Silver → Gold medallion pipeline using Apache Iceberg, queried through Trino. Airflow-orchestrated with Great Expectations quality gates baked in.
 
 **Hybrid Search System**
 pgvector + OpenSearch in combination for semantic + keyword retrieval. Powers the AI assistant's answer layer.
